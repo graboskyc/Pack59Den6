@@ -1,42 +1,56 @@
 # Hello, Bears!
 
-This is the home page for Pack 59 Den 6 (Bears)
+This is the home page for Pack 59 Den 6 (Bears).
 
-## Links
-<div class="grid">
-    <a role="button" target="_blank" href="https://www.scouting.org/programs/cub-scouts/adventures/bear/">Bear Adventures</a>
-    <a role="button" target="_blank" href="https://advancements.scouting.org/calendar">Pack Calendar</a>
-    <a role="button" target="_blank" href="https://sites.google.com/site/njpack59/">Pack Site</a>
-    <a role="button" target="_blank" href="https://www.facebook.com/Pack59nj/">Pack Facebook</a>
-    <a role="button" target="_blank" href="http://branchpike.com/mailman/listinfo/pack59_branchpike.com">Pack Email</a>
-</div>
+You can see all Bear Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/bear/).
+                    
 
 ## Completed Adventures (in order)
 * [Week 1 Info](https://1drv.ms/w/s!Amnwl-PZ2kHpktEhD2xd0Tvm6H30Wg?e=ze2ajC)
-* [Bear Bobcat](https://1drv.ms/w/s!Amnwl-PZ2kHpktEbmigFS4uUfMyBVg)
-* [Bear Strong](https://1drv.ms/w/s!Amnwl-PZ2kHpktVNgAl12Mx7ZFhgGQ)
-* [Fellowship](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) (complete at home)
+* Bear Bobcat
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEbmigFS4uUfMyBVg)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bobcat-bear/)
+
+* Bear Strong 
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVNgAl12Mx7ZFhgGQ)
+    * [Video](https://www.youtube.com/watch?v=LCVengYJHss)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-strong/)
+
+* Fellowship 
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) (complete at home)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
 
 ## Upcoming Adventures
-* [Forensics](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
-* [Chef Tech](https://1drv.ms/w/s!Amnwl-PZ2kHpktEkORHCg-kCWCSFqg?e=C7wcml)
+* Forensics 
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
+    * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
-## More information
+* Let's Camp
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
 
-<details>
-    <summary role="button">What is a den versus a pack?</summary>
-    <p><b>The Den</b> is the small group within the same age group</p>
-    <p><b>The Pack</b> is comprised of all dens together with their leaders and families</p>
-</details>
+* Bear Habitat
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-habitat/)
 
-<details>
-    <summary role="button">What do Class A and B Uniforms mean?</summary>
-    <p><b>Class B</b> uniforms are the blue t-shirts and are worn to most den meetings</p>
-    <p><b>Class A</b> uniforms are the full button sown shirt with patches and worn to official events and pack meetings</p>
-</details>
+* Paws for Action
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
 
-<details>
-    <summary role="button">Where are meetings held?</summary>
-    <p>Most meetings are held at Covenant Presbyterian Church at 2618 New Albany Rd, Cinnaminson, NJ 08077 however not all of them.</p>
-    <p>Be sure to check the calendar for each event as it will have the link</p>
-</details>
+* Standing Tall
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
+
+* Race Time
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
+
+* Chef Tech
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEkORHCg-kCWCSFqg?e=C7wcml)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
+
+## From Summer Camp
+* A Bear Goes Fishing
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/a-bear-goes-fishing/)
+
+* Salmon Run
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/salmon-run/)
+
+* Summertime Fun
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/summertime-fun-bear/)
