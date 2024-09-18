@@ -13,7 +13,7 @@ This is the home page for Pack 59 Den 6 (Bears)
 ## Completed Adventures (in order)
 * [Bear Bobcat](https://1drv.ms/w/s!Amnwl-PZ2kHpktEbmigFS4uUfMyBVg)
 * [Bear Strong](https://1drv.ms/w/s!Amnwl-PZ2kHpktVNgAl12Mx7ZFhgGQ)
-* [Fellowship](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD)
+* [Fellowship](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) (complete at home)
 
 ## Upcoming Adventures
 * [Forensics](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
