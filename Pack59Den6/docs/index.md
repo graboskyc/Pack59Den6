@@ -10,17 +10,19 @@ This year we must complete **six** required Adventures and any **two** elective 
 Required Adventures are marked with <span class="material-symbols-outlined">verified</span> a below.                    
 
 ## Completed Adventures (in order)
-* **Week 1 Info**
+* **Week 1 Info** (09/05/24)
     * [Handout](https://1drv.ms/w/s!Amnwl-PZ2kHpktEhD2xd0Tvm6H30Wg?e=ze2ajC)
 
-* **Bear Bobcat** <span class="material-symbols-outlined">verified</span>
+* **Bear Bobcat** <span class="material-symbols-outlined">verified</span> (09/05/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEbmigFS4uUfMyBVg)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bobcat-bear/)
+    * [Youth Protection - "How to Protect Your Children from Child Abuse: A Parent’s Guide."](https://filestore.scouting.org/filestore/pdf/100-014_WEB.pdf)
 
-* **Bear Strong** <span class="material-symbols-outlined">verified</span>
+* **Bear Strong** <span class="material-symbols-outlined">verified</span> (09/19/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVNgAl12Mx7ZFhgGQ)
     * [Video](https://www.youtube.com/watch?v=LCVengYJHss)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-strong/)
+    * [BSA Health Docs](https://www.scouting.org/health-and-safety/ahmr/ )
 
 * **Fellowship** <span class="material-symbols-outlined">verified</span>
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) (complete at home)
