@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,11 +12,34 @@
         <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
         <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 
+        <style>
+            .hero {
+                text-align: center;
+                background-image: url(/img/hero.jpg);
+                min-height: 35vh;
+                place-content: center;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                position: relative;
+            }
+            .herobg {
+                background: -webkit-radial-gradient(rgba(0, 0, 0, 0.55) 40%, transparent 100%);
+                background: -o-radial-gradient(rgba(0, 0, 0, 0.55) 40%, transparent 100%);
+                background: -moz-radial-gradient(rgba(0, 0, 0, 0.55) 40%, transparent 100%);
+                background: radial-gradient(rgba(0, 0, 0, .55) 40%, transparent 100%);
+                padding: 0.5rem;
+                border-radius: 10px;
+                font-size: 2rem;
+                text-align: center;
+            }
+        </style>
+
         {%- for path in config.extra_css %}
         <link href="{{ path | url }}" rel="stylesheet">
         {%- endfor %}
     </head>
-    <body data-theme="light">
+    <body data-theme="dark">
         <div class="container">
             <nav data-theme="dark">
                 <ul>
@@ -32,32 +55,50 @@
                     </ul>
                 {% endif %}
             </nav>
-            <article class="container-fluid" data-theme="dark" style="text-align: center;
-            background-image: url(/img/hero.jpg);
-            min-height: 35vh;
-            place-content: center;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            position: relative;">
-                <div style="    background: -webkit-radial-gradient(rgba(0, 0, 0, 0.55) 40%, transparent 100%);
-                background: -o-radial-gradient(rgba(0, 0, 0, 0.55) 40%, transparent 100%);
-                background: -moz-radial-gradient(rgba(0, 0, 0, 0.55) 40%, transparent 100%);
-                background: radial-gradient(rgba(0, 0, 0, .55) 40%, transparent 100%);
-                padding: 0.5rem;
-                border-radius: 10px;
-                font-size: 2rem;
-                text-align: center;">
+            <article class="container-fluid hero" data-theme="dark">
+                <div class="herobg">
                     <h1>Pack 59 Den 6</h1>
                     <h2>Cinnaminson, NJ</h2>
                 </div>
             </article>
+
+            <article class="container-fluid" data-theme="light">
+                <header><h2>Pack Links</h2></header>
+                <div class="grid">
+                    <a role="button" target="_blank" href="https://advancements.scouting.org/calendar">Pack Calendar</a>
+                    <a role="button" target="_blank" href="https://sites.google.com/site/njpack59/">Pack Site</a>
+                    <a role="button" target="_blank" href="https://www.facebook.com/Pack59nj/">Pack Facebook</a>
+                    <a role="button" target="_blank" href="http://branchpike.com/mailman/listinfo/pack59_branchpike.com">Pack Email</a>
+                </div>
+            </article>
+
             <article class="container-fluid" data-theme="light" style="min-height: 85vh;">
                 {{ page.content }}
 
                 {%- for script in config.extra_javascript %}
                 {{ script | script_tag }}
                 {%- endfor %}
+            </article>
+
+            <article class="container-fluid" data-theme="light">
+                <header><h2>FAQ</h2></header>
+                <details>
+                    <summary role="button">What is a den versus a pack?</summary>
+                    <p><b>The Den</b> is the small group within the same age group</p>
+                    <p><b>The Pack</b> is comprised of all dens together with their leaders and families</p>
+                </details>
+
+                <details>
+                    <summary role="button">What do Class A and B Uniforms mean?</summary>
+                    <p><b>Class B</b> uniforms are the blue t-shirts and are worn to most den meetings</p>
+                    <p><b>Class A</b> uniforms are the full button sown shirt with patches and worn to official events and pack meetings</p>
+                </details>
+
+                <details>
+                    <summary role="button">Where are meetings held?</summary>
+                    <p>Most meetings are held at Covenant Presbyterian Church at 2618 New Albany Rd, Cinnaminson, NJ 08077 however not all of them.</p>
+                    <p>Be sure to check the calendar for each event as it will have the link</p>
+                </details>
             </article>
         </div>
     </body>
