@@ -1,6 +1,9 @@
 site_name: Pack 59 Den 6 Bears
 nav:
-  - Home: index.md
+  - Bear: index.md
+  - Wolf: wolf.md
+  - Tiger: tiger.md
+  - Lion: lion.md
 theme:
   name: null
   custom_dir: 'custom_theme/'
