@@ -54,11 +54,13 @@ Required Adventures are marked with <span class="material-symbols-outlined">veri
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
 
 ## From Summer Camp
+* Summertime Fun 
+    * You participated in 3 or more summertime activities between Wolf and Bear years (summer of 2024)
+    * This included June crossover, July 4th Parade, Day Camp, Webelos Camp, Summer Pack Hike, June Pack Picnic, Pack Skating, etc
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/summertime-fun-bear/)
+
 * A Bear Goes Fishing
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/a-bear-goes-fishing/)
 
 * Salmon Run
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/salmon-run/)
-
-* Summertime Fun
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/summertime-fun-bear/)
