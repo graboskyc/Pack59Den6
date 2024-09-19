@@ -21,6 +21,7 @@ Required Adventures are marked with <span class="material-symbols-outlined">veri
 * **Bear Strong** <span class="material-symbols-outlined">verified</span> (09/19/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVNgAl12Mx7ZFhgGQ)
     * [Video](https://youtu.be/02E1468SdHg?feature=shared)
+    * [MyPlate](https://www.myplate.gov/)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-strong/)
     * [BSA Health Docs](https://www.scouting.org/health-and-safety/ahmr/ )
 
