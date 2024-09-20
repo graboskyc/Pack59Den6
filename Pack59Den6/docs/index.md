@@ -7,7 +7,9 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 # Requirements
 This year we must complete **six** required Adventures and any **two** elective Adventures.
 
-Required Adventures are marked with <span class="material-symbols-outlined">verified</span> a below.                    
+Required Adventures are marked with <span class="material-symbols-outlined">verified</span> a below.
+
+Each Adventure below will have a Den Guide which is something I write to guide the Adventure together. You can see other similar ideas on the Scouting.org Adventure page for that Adventure. There may be other auxilary materials for each Adventure (videos, printable games, etc) that are also enumerated.  
 
 ## Completed Adventures (in order)
 * **Week 1 Info** (09/05/24)
@@ -25,17 +27,18 @@ Required Adventures are marked with <span class="material-symbols-outlined">veri
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-strong/)
     * [BSA Health Docs](https://www.scouting.org/health-and-safety/ahmr/ )
 
-* **Fellowship** <span class="material-symbols-outlined">verified</span>
-    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) (complete at home)
+* **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Nov)
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
 
 ## Upcoming Adventures
-* **Forensics**
+* **Forensics** (10/02/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
 * **Let's Camp**
+    * Will be completed on a camping trip
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
 
 * **Bear Habitat** <span class="material-symbols-outlined">verified</span>
@@ -48,9 +51,11 @@ Required Adventures are marked with <span class="material-symbols-outlined">veri
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
 
 * **Race Time**
+    * Will be completed automatically as part of Pinewood Derby
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
 * **Chef Tech**
+    * Will be completed as a take home adventure over our break or as a makeup 
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEkORHCg-kCWCSFqg?e=C7wcml)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
 
