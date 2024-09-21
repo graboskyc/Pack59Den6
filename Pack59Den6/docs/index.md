@@ -32,7 +32,7 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
 
 ## Upcoming Adventures
-* **Forensics** (10/02/24)
+* **Forensics** (10/03/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
