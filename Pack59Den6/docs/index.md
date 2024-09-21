@@ -37,18 +37,27 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
-* **Let's Camp**
-    * Will be completed on a camping trip
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
+* **Marble Madness** (2 weeks, TBD)
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
+    * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
+    * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
 
 * **Bear Habitat** <span class="material-symbols-outlined">verified</span>
+    * 1 mile hike and leave no trace
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-habitat/)
 
 * **Paws for Action** <span class="material-symbols-outlined">verified</span>
+    * service project, learn about America, learn about a non profit
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
 
 * **Standing Tall** <span class="material-symbols-outlined">verified</span>
+    * protecting yourself from danger, online, and kitchen/sports
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
+
+* **Let's Camp**
+    * Will be completed on a camping trip
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
 
 * **Race Time**
     * Will be completed automatically as part of Pinewood Derby
