@@ -27,17 +27,17 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-strong/)
     * [BSA Health Docs](https://www.scouting.org/health-and-safety/ahmr/ )
 
-* **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Nov)
-    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
-
-## Upcoming Adventures
 * **Forensics** (10/03/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
-* **Marble Madness** (2 weeks, TBD)
+* **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Nov)
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
+
+## Upcoming Adventures
+* **Marble Madness** (10/17/24, possibly 2 weeks)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
     * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
