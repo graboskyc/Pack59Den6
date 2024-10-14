@@ -41,7 +41,7 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
     * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
-    * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
+    * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
 
 * **Bear Habitat** <span class="material-symbols-outlined">verified</span>
     * 1 mile hike and leave no trace
