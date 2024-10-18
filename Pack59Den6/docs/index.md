@@ -45,7 +45,7 @@ Each Adventure below will have a Den Guide which is something I write to guide t
 
 ## Upcoming Adventures
 
-* **Bear Habitat** <span class="material-symbols-outlined">verified</span>
+* **Bear Habitat** (one week in meeting, one hike) <span class="material-symbols-outlined">verified</span>
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthbVlxQXZ5rTt6PMw?e=FgvYKh)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-habitat/)
     * Six Essentials - water, whistle, flashlight, sun protection, snack, first aid kit - and always dress approproately for the hike
