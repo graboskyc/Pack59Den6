@@ -62,10 +62,13 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
     * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
 
-* **Paws for Action** <span class="material-symbols-outlined">verified</span>
-    * service project, learn about America, learn about a non profit
-    * Service project can be Scouting for Food
+* **Paws for Action** (one week in meeting, one service project)<span class="material-symbols-outlined">verified</span>
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthfBpY0QazIIhf7rw?e=JqOwBP)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
+    * Citizenship and flag [game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia%20key.pdf)
+    * [Flag Ceremony Video](https://vimeo.com/348611068) and how to [fold the flag](https://scoutlife.org/video-audio/145871/how-to-display-and-fold-the-american-flag/)
+    * [Statue of Liberty template](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%202%20Statue%20of%20Liberty.pdf)
+    
 
 * **Let's Camp**
     * Will be completed on a camping trip
