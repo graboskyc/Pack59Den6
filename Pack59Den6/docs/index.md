@@ -32,28 +32,40 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
+* **Marble Madness** (10/17/24 and 11/07/07)
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
+    * First week we completed the marble maze and marble run, second week is playing marbles and making bag and learning terms
+    * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
+    * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
+
 * **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Nov)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
 
 ## Upcoming Adventures
-* **Marble Madness** (10/17/24, possibly 2 weeks)
-    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
-    * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
-    * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
 
 * **Bear Habitat** <span class="material-symbols-outlined">verified</span>
-    * 1 mile hike and leave no trace
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthbVlxQXZ5rTt6PMw?e=FgvYKh)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-habitat/)
+    * Six Essentials - water, whistle, flashlight, sun protection, snack, first aid kit - and always dress approproately for the hike
+    * Trash Game - [Timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline.pdf) and [matching cards](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Cards.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Key.pdf)
+    * [Fire Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%206%20Fire%20Danger%20Matching%20Game.pdf)
+    * [Leave no Trace for Kids](https://1drv.ms/w/s!Amnwl-PZ2kHpksFYXPPVxRGT2Tu3gw?e=3XYUAh)
+
+* **Standing Tall** <span class="material-symbols-outlined">verified</span>
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
+    * [Protect Yourself Rules Video](https://vimeo.com/325064786)
+    * [Personal Bubble Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%202%20Personal%20Bubble%20worksheet.pdf)
+    * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
+    * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
+    * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
 
 * **Paws for Action** <span class="material-symbols-outlined">verified</span>
     * service project, learn about America, learn about a non profit
+    * Service project can be Scouting for Food
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
-
-* **Standing Tall** <span class="material-symbols-outlined">verified</span>
-    * protecting yourself from danger, online, and kitchen/sports
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
 
 * **Let's Camp**
     * Will be completed on a camping trip
