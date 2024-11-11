@@ -12,31 +12,31 @@ Required Adventures are marked with <span class="material-symbols-outlined">veri
 Each Adventure below will have a Den Guide which is something I write to guide the Adventure together. You can see other similar ideas on the Scouting.org Adventure page for that Adventure. There may be other auxilary materials for each Adventure (videos, printable games, etc) that are also enumerated.  
 
 ## Completed Adventures (in order)
-* **Week 1 Info** (09/05/24)
+* <a id="w1"></a>**Week 1 Info** (09/05/24)
     * [Handout](https://1drv.ms/w/s!Amnwl-PZ2kHpktEhD2xd0Tvm6H30Wg?e=ze2ajC)
 
-* **Bear Bobcat** <span class="material-symbols-outlined">verified</span> (09/05/24)
+* <a id="bobcat"></a>**Bear Bobcat** <span class="material-symbols-outlined">verified</span> (09/05/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEbmigFS4uUfMyBVg)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bobcat-bear/)
     * [Youth Protection - "How to Protect Your Children from Child Abuse: A Parent’s Guide."](https://filestore.scouting.org/filestore/pdf/100-014_WEB.pdf)
 
-* **Bear Strong** <span class="material-symbols-outlined">verified</span> (09/19/24)
+* <a id="bearstrong"></a>**Bear Strong** <span class="material-symbols-outlined">verified</span> (09/19/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVNgAl12Mx7ZFhgGQ)
     * [Video](https://youtu.be/02E1468SdHg?feature=shared)
     * [MyPlate](https://www.myplate.gov/)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-strong/)
     * [BSA Health Docs](https://www.scouting.org/health-and-safety/ahmr/ )
 
-* **Forensics** (10/03/24)
+* <a id="forensics"></a>**Forensics** (10/03/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
-* **Marble Madness Part 1** (10/17/24 and 12/05/24)
+* <a id="marblemadness1"></a>**Marble Madness Part 1** (10/17/24 and 12/05/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
 
-* **Paws for Action** (11/12/24, one service project)<span class="material-symbols-outlined">verified</span>
+* <a id="pawsforaction"></a>**Paws for Action** (11/12/24, one service project)<span class="material-symbols-outlined">verified</span>
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthfBpY0QazIIhf7rw?e=JqOwBP)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
     * Citizenship and flag [game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia%20key.pdf)
@@ -46,11 +46,11 @@ Each Adventure below will have a Den Guide which is something I write to guide t
         * [About Food Bank of South Jersey](https://foodbanksj.org/our-story/)
         * [About Video](https://www.youtube.com/watch?v=U9ELW6oVAEE)
 
-* **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Thanksgiving)
+* <a id="fellowship"></a>**Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Thanksgiving)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
 
-* **Marble Madness Part 2** (10/17/24 and 12/05/24)
+* <a id="marblemadness2"></a>**Marble Madness Part 2** (10/17/24 and 12/05/24)
     * Continuation of above
     * First week we completed the marble maze and marble run, second week is playing marbles and making bag and learning terms
     * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
