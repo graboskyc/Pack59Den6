@@ -43,8 +43,8 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Flag Ceremony Video](https://vimeo.com/348611068) and how to [fold the flag](https://scoutlife.org/video-audio/145871/how-to-display-and-fold-the-american-flag/)
     * [Statue of Liberty template](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%202%20Statue%20of%20Liberty.pdf)
     * Service project of your choice, such as Scouting for Food
-       * [About Food Bank of South Jersey](https://foodbanksj.org/our-story/)
-       * [About Video](https://www.youtube.com/watch?v=U9ELW6oVAEE)
+        * [About Food Bank of South Jersey](https://foodbanksj.org/our-story/)
+        * [About Video](https://www.youtube.com/watch?v=U9ELW6oVAEE)
 
 * **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Thanksgiving)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
