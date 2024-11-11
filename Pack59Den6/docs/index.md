@@ -32,16 +32,27 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
-* **Marble Madness** (10/17/24 and 11/07/07)
+* **Marble Madness** (10/17/24 and 12/05/24)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
     * First week we completed the marble maze and marble run, second week is playing marbles and making bag and learning terms
     * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
     * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
 
-* **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Nov)
+* **Paws for Action** (11/12/24, one service project)<span class="material-symbols-outlined">verified</span>
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthfBpY0QazIIhf7rw?e=JqOwBP)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
+    * Citizenship and flag [game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia%20key.pdf)
+    * [Flag Ceremony Video](https://vimeo.com/348611068) and how to [fold the flag](https://scoutlife.org/video-audio/145871/how-to-display-and-fold-the-american-flag/)
+    * [Statue of Liberty template](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%202%20Statue%20of%20Liberty.pdf)
+    * Service project of your choice, such as Scouting for Food
+
+* **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Thanksgiving)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
+
+* **Marble Madness** (10/17/24 and 12/05/24)
+    * Continuation of above
 
 ## Upcoming Adventures
 
@@ -61,13 +72,6 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
     * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
     * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
-
-* **Paws for Action** (one week in meeting, one service project)<span class="material-symbols-outlined">verified</span>
-    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthfBpY0QazIIhf7rw?e=JqOwBP)
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
-    * Citizenship and flag [game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia%20key.pdf)
-    * [Flag Ceremony Video](https://vimeo.com/348611068) and how to [fold the flag](https://scoutlife.org/video-audio/145871/how-to-display-and-fold-the-american-flag/)
-    * [Statue of Liberty template](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%202%20Statue%20of%20Liberty.pdf)
     
 
 * **Let's Camp**
