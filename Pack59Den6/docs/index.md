@@ -12,7 +12,7 @@ Required Adventures are marked with <span class="material-symbols-outlined">veri
 Each Adventure below will have a Den Guide which is something I write to guide the Adventure together. You can see other similar ideas on the Scouting.org Adventure page for that Adventure. There may be other auxilary materials for each Adventure (videos, printable games, etc) that are also enumerated.  
 
 ## Completed Adventures (in order)
-* <span class="material-symbols-outlined">link</span>**Week 1 Info** (09/05/24)
+* **Week 1 Info** (09/05/24)
     * [Handout](https://1drv.ms/w/s!Amnwl-PZ2kHpktEhD2xd0Tvm6H30Wg?e=ze2ajC)
 
 * **Bear Bobcat** <span class="material-symbols-outlined">verified</span> (09/05/24)
