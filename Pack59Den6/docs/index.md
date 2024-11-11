@@ -36,7 +36,7 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
 
-* **Paws for Action** (11/12/24, one service project)<span class="material-symbols-outlined">verified</span>
+* **Paws for Action** <span class="material-symbols-outlined">verified</span> (11/12/24, one service project)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthfBpY0QazIIhf7rw?e=JqOwBP)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
     * Citizenship and flag [game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia%20key.pdf)
@@ -58,7 +58,7 @@ Each Adventure below will have a Den Guide which is something I write to guide t
 
 ## Upcoming Adventures
 
-* **Bear Habitat** (one week in meeting, one hike) <span class="material-symbols-outlined">verified</span>
+* **Bear Habitat** <span class="material-symbols-outlined">verified</span> (one week in meeting, one hike)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthbVlxQXZ5rTt6PMw?e=FgvYKh)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-habitat/)
     * Six Essentials - water, whistle, flashlight, sun protection, snack, first aid kit - and always dress approproately for the hike
