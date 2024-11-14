@@ -44,6 +44,7 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Statue of Liberty template](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%202%20Statue%20of%20Liberty.pdf)
     * Service project of your choice, such as Scouting for Food
         * [About Food Bank of South Jersey](https://foodbanksj.org/our-story/)
+            * Pack 59 and Troop 70 combined provided `5,196 items in 2023`, `5585 items in 2022`, `5240 food items in 2021`, and Pack 59 alone provided `5,569 items in 2020`, `2557 items in 2019`, `1714 items in 2018`
         * [About Video](https://www.youtube.com/watch?v=U9ELW6oVAEE)
 
 * **Fellowship** <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Thanksgiving)
