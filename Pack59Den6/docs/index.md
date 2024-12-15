@@ -57,6 +57,15 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
     * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
 
+* **Standing Tall** <span class="material-symbols-outlined">verified</span> (12/19/24)
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
+    * [Protect Yourself Rules Video](https://vimeo.com/325064786)
+    * [Personal Bubble Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%202%20Personal%20Bubble%20worksheet.pdf)
+    * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
+    * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
+    * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
+   
 ## Upcoming Adventures
 
 * **Bear Habitat** <span class="material-symbols-outlined">verified</span> (one week in meeting, one hike)
@@ -67,23 +76,13 @@ Each Adventure below will have a Den Guide which is something I write to guide t
     * [Fire Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%206%20Fire%20Danger%20Matching%20Game.pdf)
     * [Leave no Trace for Kids](https://1drv.ms/w/s!Amnwl-PZ2kHpksFYXPPVxRGT2Tu3gw?e=3XYUAh)
 
-* **Standing Tall** <span class="material-symbols-outlined">verified</span>
-    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
-    * [Protect Yourself Rules Video](https://vimeo.com/325064786)
-    * [Personal Bubble Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%202%20Personal%20Bubble%20worksheet.pdf)
-    * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
-    * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
-    * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
-    
+* **Race Time**
+    * Will be completed automatically as part of Pinewood Derby
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
 * **Let's Camp**
     * Will be completed on a camping trip
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
-
-* **Race Time**
-    * Will be completed automatically as part of Pinewood Derby
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
 * **Chef Tech**
     * Will be completed as a take home adventure over our break or as a makeup 
