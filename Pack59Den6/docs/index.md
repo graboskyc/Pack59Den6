@@ -68,8 +68,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
 
-* **Chef Tech**
-    * Will be completed as a take home adventure over our break or as a makeup 
+* **Chef Tech** (over Thanksgiving or Winter break or as makeup)
     * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEkORHCg-kCWCSFqg?e=C7wcml)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
 
