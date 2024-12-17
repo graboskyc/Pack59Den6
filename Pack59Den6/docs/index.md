@@ -91,8 +91,10 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
         * [About Video](https://www.youtube.com/watch?v=U9ELW6oVAEE) 
 
 * <h5 id="builder">Baloo the Builder (12/19/24)</h5>
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkt52kf9Ktpu9oGKxEA?e=ZWBKnM)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/baloo-the-builder/)
     * [Tic Tac Toe Sheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Baloo%20the%20Builder%205%20Tic-Tac-Toe%20Board.pdf)
+    * [How to use a speed square](https://www.youtube.com/watch?v=gNhWpuWvtEA)
 
 ## Take Home Activities (do at home with your family)
 
@@ -128,6 +130,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
 * **Whittling**
+    * [Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkt50k3bpQvkFgzDq7g?e=IjgNBJ)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/whittling/)
     * [Safety Video](https://vimeo.com/948326811)
 
