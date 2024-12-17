@@ -129,6 +129,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 
 * **Whittling**
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/whittling/)
+    * [Safety Video](https://vimeo.com/948326811)
 
 * **Let's Camp**
     * Will be completed on a camping trip
