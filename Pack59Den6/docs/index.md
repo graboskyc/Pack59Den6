@@ -64,6 +64,29 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
         <a href="#chef-tech"><img src="/img/loops/cheftech.jpg" /></a>
         <span class="pill-badge">Home</span>
     </div>
+    <div class="pill-parent">
+        <a href="#bear-habitat"><img src="/img/loops/habitat.jpg" /></a>
+        <span class="pill-badge">TBD</span>
+    </div>
+</div>
+<br />
+<div class="grid">
+    <div class="pill-parent">
+        <a href="#lets-camp"><img src="/img/loops/camp.jpg" /></a>
+        <span class="pill-badge">TBD</span>
+    </div>
+    <div class="pill-parent">
+        <a href="#summertime-fun"><img src="/img/loops/summertime.jpg" /></a>
+        <span class="pill-badge">Summer '24</span>
+    </div>
+    <div class="pill-parent">
+        <a href="#a-bear-goes-fishing"><img src="/img/loops/fishing.jpg" /></a>
+        <span class="pill-badge">Summer '24</span>
+    </div>
+    <div class="pill-parent">
+        <a href="#salmon-run"><img src="/img/loops/salmonrun.jpg" /></a>
+        <span class="pill-badge">Summer '24</span>
+    </div>
 </div>
 
 ## Adventure Guides (in order)
