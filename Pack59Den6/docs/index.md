@@ -46,22 +46,22 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
         <span class="pill-badge">1/16</span>
     </div>
     <div class="pill-parent">
-        <a href="#standing"><img src="/img/loops/standing.jpg" /></a>
-        <span class="pill-badge">2/6</span>
+        <a href="#racetime"><img src="/img/loops/racetime.jpg" /></a>
+        <span class="pill-badge">1/24</span>
     </div>
 </div>
 <br />
 <div class="grid">
+    <div class="pill-parent">
+        <a href="#standing"><img src="/img/loops/standing.jpg" /></a>
+        <span class="pill-badge">2/6</span>
+    </div>
     <div class="pill-parent">
         <a href="#fellowship"><img src="/img/loops/fellowship.jpg" /></a>
         <span class="pill-badge">Home</span>
     </div>
     <div class="pill-parent">
         <a href="#cheftech"><img src="/img/loops/cheftech.jpg" /></a>
-        <span class="pill-badge">Home</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#racetime"><img src="/img/loops/racetime.jpg" /></a>
         <span class="pill-badge">Home</span>
     </div>
 </div>
@@ -116,6 +116,10 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/whittling/)
     * [Safety Video](https://vimeo.com/948326811)
 
+* <h5 id="racetime">Race Time</h5>
+    * Will be completed automatically as part of Pinewood Derby
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
+
 * <h5 id="standing">Standing Tall <span class="material-symbols-outlined">verified</span> (02/06/25)</h5>
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
@@ -124,7 +128,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
     * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
     * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
-
+    
 ## Take Home Activities (do at home with your family)
 
 * <h5 id="fellowship">Fellowship <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Thanksgiving)</h5>
@@ -134,10 +138,6 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 * <h5 id="cheftech">Chef Tech (over Thanksgiving or Winter break or as makeup)</h5>
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEkORHCg-kCWCSFqg?e=C7wcml)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
-
-* <h5 id="racetime">Race Time</h5>
-    * Will be completed automatically as part of Pinewood Derby
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
 ## Upcoming Adventures
 
