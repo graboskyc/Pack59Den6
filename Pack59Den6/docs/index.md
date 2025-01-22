@@ -7,7 +7,7 @@ Each Adventure below will have a Chris's Den Guide which is something I write to
 # Requirements
 This year we must complete **six** required Adventures and any **two** elective Adventures.
 
-Required Adventures are marked with <span class="material-symbols-outlined">verified</span> a below.
+Required Adventures have a color icon on the belt loop while electives are a muted blue.
 
 You can see all Bear Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/bear/).
 
@@ -15,11 +15,11 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 
 <div class="grid">
     <div class="pill-parent">
-        <a href="#bobcat"><img src="/img/loops/bobcat.jpg" /></a>
+        <a href="#bear-bobcat"><img src="/img/loops/bobcat.jpg" /></a>
         <span class="pill-badge">9/5</span>
     </div>
     <div class="pill-parent">
-        <a href="#strong"><img src="/img/loops/strong.jpg" /></a>
+        <a href="#bear-strong"><img src="/img/loops/strong.jpg" /></a>
         <span class="pill-badge">9/19</span>
     </div>
     <div class="pill-parent">
@@ -27,18 +27,18 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
         <span class="pill-badge">10/2</span>
     </div>
     <div class="pill-parent">
-        <a href="#marbles"><img src="/img/loops/marbles.jpg" /></a>
+        <a href="#marble-madness"><img src="/img/loops/marbles.jpg" /></a>
         <span class="pill-badge">10/17 &amp; 12/05</span>
     </div>
 </div>
 <br />
 <div class="grid">
     <div class="pill-parent">
-        <a href="#paws"><img src="/img/loops/paws.jpg" /></a>
+        <a href="#paws-for-action"><img src="/img/loops/paws.jpg" /></a>
         <span class="pill-badge">11/12</span>
     </div>
     <div class="pill-parent">
-        <a href="#builder"><img src="/img/loops/builder.jpg" /></a>
+        <a href="#baloo-the-builder"><img src="/img/loops/builder.jpg" /></a>
         <span class="pill-badge">12/19</span>
     </div>
     <div class="pill-parent">
@@ -46,14 +46,14 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
         <span class="pill-badge">1/16</span>
     </div>
     <div class="pill-parent">
-        <a href="#racetime"><img src="/img/loops/racetime.jpg" /></a>
+        <a href="#race-time"><img src="/img/loops/racetime.jpg" /></a>
         <span class="pill-badge">1/24</span>
     </div>
 </div>
 <br />
 <div class="grid">
     <div class="pill-parent">
-        <a href="#standing"><img src="/img/loops/standing.jpg" /></a>
+        <a href="#standing-tall"><img src="/img/loops/standing.jpg" /></a>
         <span class="pill-badge">2/6</span>
     </div>
     <div class="pill-parent">
@@ -61,40 +61,46 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
         <span class="pill-badge">Home</span>
     </div>
     <div class="pill-parent">
-        <a href="#cheftech"><img src="/img/loops/cheftech.jpg" /></a>
+        <a href="#chef-tech"><img src="/img/loops/cheftech.jpg" /></a>
         <span class="pill-badge">Home</span>
     </div>
 </div>
 
 ## Adventure Guides (in order)
-* <h5 id="w01">Week 1 Info (09/05/24)</h5>
+* ##### Week 1 Info
+    * 09/05/24
     * [Handout](https://1drv.ms/w/s!Amnwl-PZ2kHpktEhD2xd0Tvm6H30Wg?e=ze2ajC)
 
-* <h5 id="bobcat">Bear Bobcat <span class="material-symbols-outlined">verified</span> (09/05/24)</h5>
+* ##### Bear Bobcat
+    * _Required_ - 09/05/24
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEbmigFS4uUfMyBVg)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bobcat-bear/)
     * [Youth Protection - "How to Protect Your Children from Child Abuse: A Parent’s Guide."](https://filestore.scouting.org/filestore/pdf/100-014_WEB.pdf)
 
-* <h5 id="strong">Bear Strong <span class="material-symbols-outlined">verified</span> (09/19/24)</h5>
+* ##### Bear Strong 
+    * _Required_ - 09/19/24
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVNgAl12Mx7ZFhgGQ)
     * [Video](https://youtu.be/02E1468SdHg?feature=shared)
     * [MyPlate](https://www.myplate.gov/)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-strong/)
     * [BSA Health Docs](https://www.scouting.org/health-and-safety/ahmr/ )
 
-* <h5 id="forensics">Forensics (10/03/24)</h5>
+* ##### Forensics 
+    * 10/03/24
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktVKaZtuJweV20bM2A?e=sbfghC)
     * [Video](https://1drv.ms/v/s!Amnwl-PZ2kHpktVMS0FHLMqMIzfx3Q)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/forensics/)
 
-* <h5 id="marbles">Marble Madness (10/17/24 and 12/05/24)</h5>    
+* ##### Marble Madness 
+    * 10/17/24 and 12/05/24
     * First week we completed the marble maze and marble run, second week is playing marbles and making bag and learning terms
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktZYmVIZumfQ-PgtRQ?e=XvhYKc)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/marble-madness/)
     * [Making a bag instructions](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%201%20No%20Sew%20Marble%20Bag.pdf)
     * Marble Jargon [Matching Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon.pdf) and [Answer Key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Marble%20Madness%202%20Marble%20Jargon%20Key.pdf)
 
-* <h5 id="paws">Paws for Action <span class="material-symbols-outlined">verified</span> (11/12/24, one service project)</h5>
+* ##### Paws for Action 
+    * _Required_ - 11/12/24 and one service project
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthfBpY0QazIIhf7rw?e=JqOwBP)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/paws-for-action/)
     * Citizenship and flag [game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Paws%20for%20Action%201%20Citizenship%20Flag%20Trivia%20key.pdf)
@@ -105,22 +111,25 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
             * Pack 59 and Troop 70 combined provided `5,196 items in 2023`, `5585 items in 2022`, `5240 food items in 2021`, and Pack 59 alone provided `5,569 items in 2020`, `2557 items in 2019`, `1714 items in 2018`
         * [About Video](https://www.youtube.com/watch?v=U9ELW6oVAEE) 
 
-* <h5 id="builder">Baloo the Builder (12/19/24)</h5>
+* ##### Baloo the Builder 
+    * 12/19/24
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkt52kf9Ktpu9oGKxEA?e=ZWBKnM)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/baloo-the-builder/)
     * [Tic Tac Toe Sheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Baloo%20the%20Builder%205%20Tic-Tac-Toe%20Board.pdf)
     * [How to use a speed square](https://www.youtube.com/watch?v=gNhWpuWvtEA)
 
-* <h5 id="whittling">Whittling (01/16/25)</h5>
+* ##### Whittling 
+    * 01/16/25
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkt50k3bpQvkFgzDq7g?e=IjgNBJ)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/whittling/)
     * [Safety Video](https://vimeo.com/948326811)
 
-* <h5 id="racetime">Race Time</h5>
-    * Will be completed automatically as part of Pinewood Derby
+* ##### Race Time
+    * Will be completed automatically as part of Pinewood Derby on 01/24/25
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
-* <h5 id="standing">Standing Tall <span class="material-symbols-outlined">verified</span> (02/06/25)</h5>
+* ##### Standing Tall
+    * _Required_ - 02/06/25
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
     * [Protect Yourself Rules Video](https://vimeo.com/325064786)
@@ -128,20 +137,27 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
     * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
     * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
-    
+
+
+
 ## Take Home Activities (do at home with your family)
 
-* <h5 id="fellowship">Fellowship <span class="material-symbols-outlined">verified</span> (complete at home by June, preferably Thanksgiving)</h5>
+* ##### Fellowship
+    * _Required_ - complete at home by June, preferably Thanksgiving
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEei3lC38Odbcq8Jg?e=nlgIaD) 
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/fellowship/)
 
-* <h5 id="cheftech">Chef Tech (over Thanksgiving or Winter break or as makeup)</h5>
+* ##### Chef Tech 
+    * Good make up, or over Thanksgiving, or brining a dessert to the dessert compettion at Blue and Gold
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEkORHCg-kCWCSFqg?e=C7wcml)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
 
+
+
 ## Upcoming Adventures
 
-* **Bear Habitat** <span class="material-symbols-outlined">verified</span> (one week in meeting, one hike)
+* ##### Bear Habitat
+    * _Required_ - one week in meeting, one hike, targeting Spring
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthbVlxQXZ5rTt6PMw?e=FgvYKh)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bear-habitat/)
     * Six Essentials - water, whistle, flashlight, sun protection, snack, first aid kit - and always dress approproately for the hike
@@ -149,18 +165,21 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Fire Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%206%20Fire%20Danger%20Matching%20Game.pdf)
     * [Leave no Trace for Kids](https://1drv.ms/w/s!Amnwl-PZ2kHpksFYXPPVxRGT2Tu3gw?e=3XYUAh)
 
-* **Let's Camp**
+* ##### Let's Camp
     * Will be completed on a camping trip
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
 
+
+
 ## From Summer Camp
-* Summertime Fun 
+
+* ##### Summertime Fun 
     * You participated in 3 or more summertime activities between Wolf and Bear years (summer of 2024)
     * This included June crossover, July 4th Parade, Day Camp, Webelos Camp, Summer Pack Hike, June Pack Picnic, Pack Skating, etc
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/summertime-fun-bear/)
 
-* A Bear Goes Fishing
+* ##### A Bear Goes Fishing
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/a-bear-goes-fishing/)
 
-* Salmon Run
+* ##### Salmon Run
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/salmon-run/)
