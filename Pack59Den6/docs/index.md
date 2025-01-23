@@ -202,7 +202,9 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/summertime-fun-bear/)
 
 * ##### A Bear Goes Fishing
+    * Was automatically completed as part of 2024 Summer Camp, but can be completed at home as well
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/a-bear-goes-fishing/)
 
 * ##### Salmon Run
+    * Was automatically completed as part of 2024 Summer Camp, but can be completed at home as well
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/salmon-run/)
