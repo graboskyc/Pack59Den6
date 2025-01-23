@@ -10,3 +10,46 @@ Thanks for completing Wolf Rank! Look at some of the fun we had!
 * Digging in the Past
     * [Adventure](https://1drv.ms/w/s!Amnwl-PZ2kHpksB0HjYog94DSUkrsQ?e=LPJxbC)
     * [Dino Match Game](https://1drv.ms/w/s!Amnwl-PZ2kHpksBzAq96ksMc8zHljg?e=4PA1aw)
+
+<div class="grid">
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/findingyourway.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/callofthewild.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/runningwiththepack.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/councilfire.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/howlingatthemoon.png" />
+    </div>
+</div>
+<br />
+<div class="grid">
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/footsteps.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/pawsonthepath.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/coins.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/digginginthepast.png" />
+    </div>
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/cubswhocare.png" />
+    </div>
+</div>
+<br />
+<div class="grid">
+    <div class="pill-parent">
+        <img src="/img/loops/wolf/yoyo.png" />
+    </div>
+</div>
+<br />
