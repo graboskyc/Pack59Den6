@@ -2,7 +2,9 @@
 
 Thanks for completing Lion Rank! Look at some of the fun we had!
 
-* [Nutrition](https://1drv.ms/w/s!Amnwl-PZ2kHpkfRmuAW7zfvyYjc7ug?e=bbnC3V)
+This year our Den Leader was Jenn and Assistant Den Leader was Chris.
+
+## Completed Adventures
 
 <div class="grid">
     <div class="pill-parent">
@@ -48,3 +50,7 @@ Thanks for completing Lion Rank! Look at some of the fun we had!
     </div>
 </div>
 <br />
+
+## More Content
+
+* [Nutrition](https://1drv.ms/w/s!Amnwl-PZ2kHpkfRmuAW7zfvyYjc7ug?e=bbnC3V)
