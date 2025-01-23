@@ -7,7 +7,7 @@ Each Adventure below will have a Chris's Den Guide which is something I write to
 # Requirements
 This year we must complete **six** required Adventures and any **two** elective Adventures.
 
-Required Adventures have a color icon on the belt loop while electives are a muted blue.
+Required Adventures have a color icon on the belt loop while electives are a monochromatic muted blue.
 
 You can see all Bear Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/bear/).
 
@@ -66,26 +66,26 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     </div>
     <div class="pill-parent">
         <a href="#bear-habitat"><img src="/img/loops/habitat.jpg" /></a>
-        <span class="pill-badge">TBD</span>
+        <span class="pill-badge pill-badge-tbd">TBD</span>
     </div>
 </div>
 <br />
 <div class="grid">
     <div class="pill-parent">
         <a href="#lets-camp"><img src="/img/loops/camp.jpg" /></a>
-        <span class="pill-badge">TBD</span>
+        <span class="pill-badge pill-badge-tbd">TBD</span>
     </div>
     <div class="pill-parent">
         <a href="#summertime-fun"><img src="/img/loops/summertime.jpg" /></a>
-        <span class="pill-badge">Summer '24</span>
+        <span class="pill-badge pill-badge-summer">Summer '24</span>
     </div>
     <div class="pill-parent">
         <a href="#a-bear-goes-fishing"><img src="/img/loops/fishing.jpg" /></a>
-        <span class="pill-badge">Summer '24</span>
+        <span class="pill-badge pill-badge-summer">Summer '24</span>
     </div>
     <div class="pill-parent">
         <a href="#salmon-run"><img src="/img/loops/salmonrun.jpg" /></a>
-        <span class="pill-badge">Summer '24</span>
+        <span class="pill-badge pill-badge-summer">Summer '24</span>
     </div>
 </div>
 
