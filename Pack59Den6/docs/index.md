@@ -11,80 +11,88 @@ Required Adventures have a color icon on the belt loop while electives are a mon
 
 You can see all Bear Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/bear/).
 
-## Completed Adventures (in order)
+## Completed Adventures
 
 <div class="grid">
     <div class="pill-parent">
-        <a href="#bear-bobcat"><img src="/img/loops/bobcat.jpg" /></a>
+        <a href="#bear-bobcat"><img src="/img/loops/bear/bobcat.jpg" /></a>
         <span class="pill-badge">9/5</span>
     </div>
     <div class="pill-parent">
-        <a href="#bear-strong"><img src="/img/loops/strong.jpg" /></a>
+        <a href="#bear-strong"><img src="/img/loops/bear/strong.jpg" /></a>
         <span class="pill-badge">9/19</span>
     </div>
     <div class="pill-parent">
-        <a href="#forensics"><img src="/img/loops/forensics.jpg" /></a>
+        <a href="#forensics"><img src="/img/loops/bear/forensics.jpg" /></a>
         <span class="pill-badge">10/2</span>
     </div>
     <div class="pill-parent">
-        <a href="#marble-madness"><img src="/img/loops/marbles.jpg" /></a>
+        <a href="#marble-madness"><img src="/img/loops/bear/marbles.jpg" /></a>
         <span class="pill-badge">10/17 &amp; 12/05</span>
+    </div>
+    <div class="pill-parent">
+        <a href="#paws-for-action"><img src="/img/loops/bear/paws.jpg" /></a>
+        <span class="pill-badge">11/12</span>
     </div>
 </div>
 <br />
 <div class="grid">
     <div class="pill-parent">
-        <a href="#paws-for-action"><img src="/img/loops/paws.jpg" /></a>
-        <span class="pill-badge">11/12</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#baloo-the-builder"><img src="/img/loops/builder.jpg" /></a>
+        <a href="#baloo-the-builder"><img src="/img/loops/bear/builder.jpg" /></a>
         <span class="pill-badge">12/19</span>
     </div>
     <div class="pill-parent">
-        <a href="#whittling"><img src="/img/loops/whittling.jpg" /></a>
+        <a href="#whittling"><img src="/img/loops/bear/whittling.jpg" /></a>
         <span class="pill-badge">1/16</span>
     </div>
     <div class="pill-parent">
-        <a href="#race-time"><img src="/img/loops/racetime.jpg" /></a>
+        <a href="#race-time"><img src="/img/loops/bear/racetime.jpg" /></a>
         <span class="pill-badge">1/24</span>
     </div>
-</div>
-<br />
-<div class="grid">
     <div class="pill-parent">
-        <a href="#standing-tall"><img src="/img/loops/standing.jpg" /></a>
+        <a href="#standing-tall"><img src="/img/loops/bear/standing.jpg" /></a>
         <span class="pill-badge">2/6</span>
     </div>
     <div class="pill-parent">
-        <a href="#fellowship"><img src="/img/loops/fellowship.jpg" /></a>
+        <a href="#fellowship"><img src="/img/loops/bear/fellowship.jpg" /></a>
+        <span class="pill-badge">Home</span>
+    </div>
+</div>
+<br />
+<div class="grid">
+    <div class="pill-parent">
+        <a href="#chef-tech"><img src="/img/loops/bear/cheftech.jpg" /></a>
         <span class="pill-badge">Home</span>
     </div>
     <div class="pill-parent">
-        <a href="#chef-tech"><img src="/img/loops/cheftech.jpg" /></a>
-        <span class="pill-badge">Home</span>
+        <a href="#lets-camp"><img src="/img/loops/bear/camp.jpg" /></a>
+        <span class="pill-badge pill-badge-tbd">TBD</span>
     </div>
     <div class="pill-parent">
-        <a href="#bear-habitat"><img src="/img/loops/habitat.jpg" /></a>
+        <a href="#bear-habitat"><img src="/img/loops/bear/habitat.jpg" /></a>
         <span class="pill-badge pill-badge-tbd">TBD</span>
     </div>
 </div>
 <br />
 <div class="grid">
     <div class="pill-parent">
-        <a href="#lets-camp"><img src="/img/loops/camp.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#summertime-fun"><img src="/img/loops/summertime.jpg" /></a>
+        <a href="#summertime-fun"><img src="/img/loops/bear/summertime.jpg" /></a>
         <span class="pill-badge pill-badge-summer">Summer '24</span>
     </div>
     <div class="pill-parent">
-        <a href="#a-bear-goes-fishing"><img src="/img/loops/fishing.jpg" /></a>
+        <a href="#a-bear-goes-fishing"><img src="/img/loops/bear/fishing.jpg" /></a>
         <span class="pill-badge pill-badge-summer">Summer '24</span>
     </div>
     <div class="pill-parent">
-        <a href="#salmon-run"><img src="/img/loops/salmonrun.jpg" /></a>
+        <a href="#salmon-run"><img src="/img/loops/bear/salmonrun.jpg" /></a>
+        <span class="pill-badge pill-badge-summer">Summer '24</span>
+    </div>
+    <div class="pill-parent">
+        <a href="#archery"><img src="/img/loops/bear/archery.jpg" /></a>
+        <span class="pill-badge pill-badge-summer">Summer '24</span>
+    </div>
+    <div class="pill-parent">
+        <a href="#bb-guns"><img src="/img/loops/bear/bb.jpg" /></a>
         <span class="pill-badge pill-badge-summer">Summer '24</span>
     </div>
 </div>
@@ -179,6 +187,10 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 
 ## Upcoming Adventures
 
+* ##### Let's Camp
+    * Will be completed on a camping trip in March
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
+
 * ##### Bear Habitat
     * _Required_ - one week in meeting, one hike, targeting Spring
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthbVlxQXZ5rTt6PMw?e=FgvYKh)
@@ -188,13 +200,8 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Fire Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%206%20Fire%20Danger%20Matching%20Game.pdf)
     * [Leave no Trace for Kids](https://1drv.ms/w/s!Amnwl-PZ2kHpksFYXPPVxRGT2Tu3gw?e=3XYUAh)
 
-* ##### Let's Camp
-    * Will be completed on a camping trip
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
 
-
-
-## From Summer Camp
+## From 2024 Summer Camp
 
 * ##### Summertime Fun 
     * You participated in 3 or more summertime activities between Wolf and Bear years (summer of 2024)
@@ -208,3 +215,9 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 * ##### Salmon Run
     * Was automatically completed as part of 2024 Summer Camp, but can be completed at home as well
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/salmon-run/)
+
+* ##### Archery
+    * Was automatically completed as part of 2024 Summer Camp
+
+* ##### BB Guns
+    * Was automatically completed as part of 2024 Summer Camp
