@@ -13,89 +13,16 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 
 ## Completed Adventures
 
-<div class="grid">
-    <div class="pill-parent">
-        <a href="#bear-bobcat"><img src="/img/loops/bear/bobcat.jpg" /></a>
-        <span class="pill-badge">9/5</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#bear-strong"><img src="/img/loops/bear/strong.jpg" /></a>
-        <span class="pill-badge">9/19</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#forensics"><img src="/img/loops/bear/forensics.jpg" /></a>
-        <span class="pill-badge">10/2</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#marble-madness"><img src="/img/loops/bear/marbles.jpg" /></a>
-        <span class="pill-badge">10/17 &amp; 12/05</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#paws-for-action"><img src="/img/loops/bear/paws.jpg" /></a>
-        <span class="pill-badge">11/12</span>
-    </div>
-</div>
-<br />
-<div class="grid">
-    <div class="pill-parent">
-        <a href="#fellowship"><img src="/img/loops/bear/fellowship.jpg" /></a>
-        <span class="pill-badge">Home</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#baloo-the-builder"><img src="/img/loops/bear/builder.jpg" /></a>
-        <span class="pill-badge">12/19</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#whittling"><img src="/img/loops/bear/whittling.jpg" /></a>
-        <span class="pill-badge">1/16</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#race-time"><img src="/img/loops/bear/racetime.jpg" /></a>
-        <span class="pill-badge">1/24</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#standing-tall"><img src="/img/loops/bear/standing.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">2/6</span>
-    </div>
-</div>
-<br />
-<div class="grid">
-    <div class="pill-parent">
-        <a href="#lets-camp"><img src="/img/loops/bear/camp.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">2/20 + camp</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#chef-tech"><img src="/img/loops/bear/cheftech.jpg" /></a>
-        <span class="pill-badge">Home</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#bear-habitat"><img src="/img/loops/bear/habitat.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-</div>
-<br />
-<div class="grid">
-    <div class="pill-parent">
-        <a href="#summertime-fun"><img src="/img/loops/bear/summertime.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '24</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#a-bear-goes-fishing"><img src="/img/loops/bear/fishing.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '24</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#salmon-run"><img src="/img/loops/bear/salmonrun.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '24</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#archery"><img src="/img/loops/bear/archery.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '24</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#bb-guns"><img src="/img/loops/bear/bb.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '24</span>
-    </div>
-</div>
+| pointless | header | row |
+| -- | -- | -- |
+| [![9/5](img/loops/bear/bobcat.jpg)](#bear-bobcat) | [![9/19](img/loops/bear/strong.jpg)](#bear-strong) | [![10/2](img/loops/bear/forensics.jpg)](#forensics) |
+| [![10/17 &amp; 12/05](img/loops/bear/marbles.jpg)](#marble-madness) | [![11/12](img/loops/bear/paws.jpg)](#paws-for-action) | [![Home](img/loops/bear/fellowship.jpg)](#fellowship) |
+| [![12/19](img/loops/bear/builder.jpg)](#baloo-the-builder) | [![1/16](img/loops/bear/whittling.jpg)](#whittling) | [![1/24](img/loops/bear/racetime.jpg)](#race-time) |
+| [![2/6](img/loops/bear/standing.jpg){: .tbd}](#standing-tall) | [![2/20 + Camp](img/loops/bear/camp.jpg){: .tbd}](#lets-camp) | [![Home](img/loops/bear/cheftech.jpg)](#chef-tech) |
+| [![TBD](img/loops/bear/habitat.jpg){: .tbd}](#bear-habitat) | | |
+| [![Summer '24](img/loops/bear/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '24](img/loops/bear/fishing.jpg){: .summer}](#a-bear-goes-fishing) | [![Summer '24](img/loops/bear/salmonrun.jpg){: .summer}](#salmon-run) |
+| [![Summer '24](img/loops/bear/archery.jpg){: .summer}](#archery) | [![Summer '24](img/loops/bear/bb.jpg){: .summer}](#bb-guns) |  |
+
 
 ## Adventure Guides (in order)
 * ##### Week 1 Info

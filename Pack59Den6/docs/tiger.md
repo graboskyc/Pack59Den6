@@ -6,56 +6,13 @@ This year our Den Leader was Jenn and Assistant Den Leader was Chris.
 
 ## Completed Adventures
 
-<div class="grid">
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/17_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/1_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/11_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/2_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/3_100.png" />
-    </div>
-</div>
-<br />
+| asd | asd | asd | asd |
+| --- | --- | --- | --- |
+| ![](img/loops/tiger/17_100.png) | ![](img/loops/tiger/1_100.png) | ![](img/loops/tiger/11_100.png) | ![](img/loops/tiger/2_100.png) |
+| ![](img/loops/tiger/3_100.png) | ![](img/loops/tiger/5_100.png) | ![](img/loops/tiger/14_100.png) | ![](img/loops/tiger/7_100.png) |
+| ![](img/loops/tiger/4_100.png) | ![](img/loops/tiger/15_100.png) | ![](img/loops/tiger/16_100.png) | ![](img/loops/tiger/13_100.png) |
+| ![](img/loops/tiger/6_100.png) | | | |
 
-<div class="grid">
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/5_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/14_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/7_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/4_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/15_100.png" />
-    </div>
-</div>
-<br />
-
-<div class="grid">
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/16_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/13_100.png" />
-    </div>
-    <div class="pill-parent">
-        <img src="/img/loops/tiger/6_100.png" />
-    </div>
-</div>
-<br />
 
 ## More Content
 

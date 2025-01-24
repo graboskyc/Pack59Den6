@@ -13,59 +13,13 @@ You can see all Webelo Adventures on the Cub Scouts website [here](https://www.s
 
 ## Adventures (in order of schedule)
 
-<div class="grid">
-    <div class="pill-parent">
-        <a href="#bobcat"><img src="/img/loops/webelos/bobcat.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#chefs-knife"><img src="/img/loops/webelos/knife.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#stronger-faster-higher"><img src="/img/loops/webelos/stronger.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#my-community"><img src="/img/loops/webelos/community.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-</div>
-<br />
-<div class="grid">
-    <div class="pill-parent">
-        <a href="#walkabout"><img src="/img/loops/webelos/walkabout.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#my-safety"><img src="/img/loops/webelos/safety.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#my-family"><img src="/img/loops/webelos/family.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">HOME</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#race-time"><img src="/img/loops/webelos/racetime.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
-    </div>
-</div>
-<br />
-<div class="grid">
-    <div class="pill-parent">
-        <a href="#summertime-fun"><img src="/img/loops/webelos/summertime.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '25</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#archery"><img src="/img/loops/webelos/archery.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '25</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#bb-guns"><img src="/img/loops/webelos/bb.jpg" /></a>
-        <span class="pill-badge pill-badge-summer">Summer '25</span>
-    </div>
-</div>
-<br />
+| asd | asd | asd |
+| --- | --- | --- |
+| [![TBD](img/loops/webelos/bobcat.jpg){: .tbd}](#bobcat) | [![TBD](img/loops/webelos/knife.jpg){: .tbd}](#chef-knife) | [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher) | 
+| [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community) | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout) | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety) |
+| [![TBD](img/loops/webelos/family.jpg){: .tbd}](#my-family) | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time) | |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
+
 
 ## Adventure Guides
 

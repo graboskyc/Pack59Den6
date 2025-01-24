@@ -34,31 +34,38 @@
                 font-size: 2rem;
                 text-align: center;
             }
-            .pill-badge {
+            thead { 
+                display: none; 
+            }
+            figcaption {
                 position: absolute;
                 top: 5px;
                 left: 5px;
-                padding: 0.5em 1em;
+                padding: 0.5em 1em !important;
                 font-size: 0.75em;
                 font-weight: bold;
                 color: white;
                 background-color: green;
                 border-radius: 999px;
                 text-align: center;
+                color: white !important;
             }
-            .pill-badge-tbd {
+            figure.tbd > figcaption {
                 background-color: #fa6800;
             }
-            .pill-badge-summer {
+            figure.summer > figcaption {
                 background-color: var(--pico-primary-background);
                 color: var(--pico-primary-inverse);
             }
-            .pill-parent {
+            figure {
                 position: relative;
                 display: inline-block;
             }
-            .pill-parent > a > img {
-                max-height: 25vh;
+            figure > img {
+                max-height: 10rem;
+            }
+            td { 
+                border: none !important;
             }
         </style>
 
@@ -165,8 +172,8 @@
                     <p>If you miss the drop off time, deliver directly to the Food Bank of South Jersey at 692 Rancocas Road Westampton, NJ 08060</p>
                     <p>This is organized through our associated Scouts BSA Troop, Troop 70.</p>
                     <div class="grid">
-                        <img src="img/sff_01.jpg" />
-                        <img src="img/sff_02.jpg" />
+                        <img src="/img/sff_01.jpg" />
+                        <img src="/img/sff_02.jpg" />
                     </div>
                 </details>
 
