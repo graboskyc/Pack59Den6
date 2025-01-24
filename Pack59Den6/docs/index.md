@@ -38,6 +38,10 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 <br />
 <div class="grid">
     <div class="pill-parent">
+        <a href="#fellowship"><img src="/img/loops/bear/fellowship.jpg" /></a>
+        <span class="pill-badge">Home</span>
+    </div>
+    <div class="pill-parent">
         <a href="#baloo-the-builder"><img src="/img/loops/bear/builder.jpg" /></a>
         <span class="pill-badge">12/19</span>
     </div>
@@ -51,22 +55,18 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     </div>
     <div class="pill-parent">
         <a href="#standing-tall"><img src="/img/loops/bear/standing.jpg" /></a>
-        <span class="pill-badge">2/6</span>
-    </div>
-    <div class="pill-parent">
-        <a href="#fellowship"><img src="/img/loops/bear/fellowship.jpg" /></a>
-        <span class="pill-badge">Home</span>
+        <span class="pill-badge pill-badge-tbd">2/6</span>
     </div>
 </div>
 <br />
 <div class="grid">
     <div class="pill-parent">
-        <a href="#chef-tech"><img src="/img/loops/bear/cheftech.jpg" /></a>
-        <span class="pill-badge">Home</span>
+        <a href="#lets-camp"><img src="/img/loops/bear/camp.jpg" /></a>
+        <span class="pill-badge pill-badge-tbd">2/20 + camp</span>
     </div>
     <div class="pill-parent">
-        <a href="#lets-camp"><img src="/img/loops/bear/camp.jpg" /></a>
-        <span class="pill-badge pill-badge-tbd">TBD</span>
+        <a href="#chef-tech"><img src="/img/loops/bear/cheftech.jpg" /></a>
+        <span class="pill-badge">Home</span>
     </div>
     <div class="pill-parent">
         <a href="#bear-habitat"><img src="/img/loops/bear/habitat.jpg" /></a>
@@ -159,17 +159,6 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * Will be completed automatically as part of Pinewood Derby on 01/24/25
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
-* ##### Standing Tall
-    * _Required_ - 02/06/25
-    * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
-    * [Protect Yourself Rules Video](https://vimeo.com/325064786)
-    * [Personal Bubble Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%202%20Personal%20Bubble%20worksheet.pdf)
-    * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
-    * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
-    * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
-
-
 
 ## Take Home Activities (do at home with your family)
 
@@ -187,8 +176,25 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 
 ## Upcoming Adventures
 
+* ##### Standing Tall
+    * _Required_ - 02/06/25
+    * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
+    * [Protect Yourself Rules Video](https://vimeo.com/325064786)
+    * [Personal Bubble Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%202%20Personal%20Bubble%20worksheet.pdf)
+    * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
+    * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
+    * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
+
 * ##### Let's Camp
-    * Will be completed on a camping trip in March
+    * 2/20 for requirements 1-4
+        * Review Buddy System and [Buddy System Video](https://vimeo.com/498051032)
+        * Six Essentials [word search puzzle](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20SearchKey.pdf)
+        * Review something else you should bring beyond the essentials
+        * Put up a tent
+    * Attend an overnight such as ONE of the following:
+        * Pack camping rip at Pine Hill on April 4-6 (at least one night)
+        * [Delaware Museum of Science and Nature](https://delmns.org/) for Spring trip
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
 
 * ##### Bear Habitat
