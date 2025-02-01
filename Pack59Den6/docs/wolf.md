@@ -6,11 +6,11 @@ This year our Den Leader was Jenn and Assistant Den Leader was Chris.
 
 ## Completed Adventures
 
-| asd | asd | asd | asd |
-| --- | --- | --- | --- |
-| ![](img/loops/wolf/findingyourway.png) | ![](img/loops/wolf/callofthewild.png) | ![](img/loops/wolf/runningwiththepack.png) | ![](img/loops/wolf/councilfire.png) |
-| ![](img/loops/wolf/howlingatthemoon.png) | ![](img/loops/wolf/footsteps.png) | ![](img/loops/wolf/pawsonthepath.png) | ![](img/loops/wolf/coins.png) |
-| ![](img/loops/wolf/digginginthepast.png) | ![](img/loops/wolf/cubswhocare.png) | ![](img/loops/wolf/yoyo.png) |  |
+| Column 1                                 | Column 2                              | Column 3                                   | Column 4                            |
+|------------------------------------------|---------------------------------------|--------------------------------------------|-------------------------------------|
+| ![](img/loops/wolf/findingyourway.png)   | ![](img/loops/wolf/callofthewild.png) | ![](img/loops/wolf/runningwiththepack.png) | ![](img/loops/wolf/councilfire.png) |
+| ![](img/loops/wolf/howlingatthemoon.png) | ![](img/loops/wolf/footsteps.png)     | ![](img/loops/wolf/pawsonthepath.png)      | ![](img/loops/wolf/coins.png)       |
+| ![](img/loops/wolf/digginginthepast.png) | ![](img/loops/wolf/cubswhocare.png)   | ![](img/loops/wolf/yoyo.png)               |                                     |
 
 
 ## More Content

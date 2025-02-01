@@ -13,12 +13,12 @@ You can see all Webelo Adventures on the Cub Scouts website [here](https://www.s
 
 ## Adventures (in order of schedule)
 
-| asd | asd | asd |
-| --- | --- | --- |
-| [![TBD](img/loops/webelos/bobcat.jpg){: .tbd}](#bobcat) | [![TBD](img/loops/webelos/knife.jpg){: .tbd}](#chef-knife) | [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher) | 
-| [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community) | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout) | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety) |
-| [![TBD](img/loops/webelos/family.jpg){: .tbd}](#my-family) | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time) | |
-| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
+| Column 1                                                                      | Column 2                                                            | Column 3                                                                  |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [![TBD](img/loops/webelos/bobcat.jpg){: .tbd}](#bobcat)                       | [![TBD](img/loops/webelos/knife.jpg){: .tbd}](#chef-knife)          | [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher) |
+| [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community)              | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)                |
+| [![TBD](img/loops/webelos/family.jpg){: .tbd}](#my-family)                    | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        |                                                                           |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)            |
 
 
 ## Adventure Guides
