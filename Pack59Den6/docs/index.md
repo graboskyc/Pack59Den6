@@ -118,6 +118,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
         * Review Buddy System and [Buddy System Video](https://vimeo.com/498051032)
         * Six Essentials [word search puzzle](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20SearchKey.pdf)
         * Review something else you should bring beyond the essentials
+            * Go off of recommended cub scout [Pack Camping List](https://filestore.scouting.org/filestore/pdf/34-49.pdf)
         * Put up a tent
     * Attend an overnight such as ONE of the following:
         * Pack camping rip at Pine Hill on April 4-6 (at least one night)
