@@ -116,7 +116,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 * ##### Let's Camp
     * 2/20 for requirements 1-4
         * Review Buddy System and [Buddy System Video](https://vimeo.com/498051032)
-        * Six Essentials [word search puzzle](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20SearchKey.pdf)
+        * Six Essentials [word search puzzle](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20SearchKey.pdf) and [video](https://vimeo.com/498051015)
         * Review something else you should bring beyond the essentials
             * Go off of recommended cub scout [Pack Camping List](https://filestore.scouting.org/filestore/pdf/34-49.pdf)
         * Put up a tent
