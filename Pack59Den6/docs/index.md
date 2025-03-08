@@ -138,9 +138,10 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 * ##### Carnival
     * TBD but Carnival scheduled for 5/2 pack meeting
     * Each den will make some games for the carnival prior to pack meeting
+    * This is simply a fun activity and no belt loop will be awarded
 
 * ##### Super Science
-    * TBD 
+    * TBD
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/super-science/)
 
 * ##### Critter Care
@@ -148,7 +149,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/critter-care/)
 
 * ##### Balancing Bears
-    * TBD - requires good weather
+    * TBD - requires good weather and light in evening 
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/balancing-bears/)
 
 
