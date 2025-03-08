@@ -97,6 +97,18 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
     * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
 
+* ##### Let's Camp
+    * 2/20 for requirements 1-4
+        * Review Buddy System and [Buddy System Video](https://vimeo.com/498051032)
+        * Six Essentials [word search puzzle](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20SearchKey.pdf) and [video](https://vimeo.com/498051015)
+        * Review something else you should bring beyond the essentials
+            * Go off of recommended cub scout [Pack Camping List](https://filestore.scouting.org/filestore/pdf/34-49.pdf)
+        * Put up a tent
+    * Attend an overnight such as ONE of the following:
+        * Pack camping rip at Pine Hill on April 4-6 (at least one night)
+        * [Delaware Museum of Science and Nature](https://delmns.org/) for Spring trip
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
+    
 * ##### Makeup Day
     * 3/7 was a makeup and games day, no new Adventures
 
@@ -113,18 +125,6 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
 
 ## Upcoming Adventures
-
-* ##### Let's Camp
-    * 2/20 for requirements 1-4
-        * Review Buddy System and [Buddy System Video](https://vimeo.com/498051032)
-        * Six Essentials [word search puzzle](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Let%27s%20Camp%202%20Cub%20Scout%20Six%20Essentials%20Word%20SearchKey.pdf) and [video](https://vimeo.com/498051015)
-        * Review something else you should bring beyond the essentials
-            * Go off of recommended cub scout [Pack Camping List](https://filestore.scouting.org/filestore/pdf/34-49.pdf)
-        * Put up a tent
-    * Attend an overnight such as ONE of the following:
-        * Pack camping rip at Pine Hill on April 4-6 (at least one night)
-        * [Delaware Museum of Science and Nature](https://delmns.org/) for Spring trip
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-bear/)
 
 * ##### Bear Habitat
     * _Required_ - one week in meeting, one hike, targeting Spring
