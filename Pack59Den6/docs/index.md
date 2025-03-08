@@ -18,8 +18,9 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 | [![9/5](img/loops/bear/bobcat.jpg)](#bear-bobcat)                          | [![9/19](img/loops/bear/strong.jpg)](#bear-strong)                           | [![10/2](img/loops/bear/forensics.jpg)](#forensics)                   |
 | [![10/17 &amp; 12/05](img/loops/bear/marbles.jpg)](#marble-madness)        | [![11/12](img/loops/bear/paws.jpg)](#paws-for-action)                        | [![Home](img/loops/bear/fellowship.jpg)](#fellowship)                 |
 | [![12/19](img/loops/bear/builder.jpg)](#baloo-the-builder)                 | [![1/16](img/loops/bear/whittling.jpg)](#whittling)                          | [![1/24](img/loops/bear/racetime.jpg)](#race-time)                    |
-| [![2/6](img/loops/bear/standing.jpg)](#standing-tall)              | [![2/20 + Camp](img/loops/bear/camp.jpg){: .tbd}](#lets-camp)                | [![Home](img/loops/bear/cheftech.jpg)](#chef-tech)                    |
-| [![TBD](img/loops/bear/habitat.jpg){: .tbd}](#bear-habitat)                |                                                                              |                                                                       |
+| [![2/6](img/loops/bear/standing.jpg)](#standing-tall)                      | [![2/20 + Camp](img/loops/bear/camp.jpg){: .tbd}](#lets-camp)                | [![Home](img/loops/bear/cheftech.jpg)](#chef-tech)                    |
+| [![TBD](img/loops/bear/science.jpg){: .tbd}](#super-science)               | [![TBD](img/loops/noloopcarnival.jpg){: .tbd}](#carnival)                          | [![TBD](img/loops/bear/crittercare.jpg){: .tbd}](#critter-care)       |
+| [![TBD](img/loops/bear/balancingbears.jpg){: .tbd}](#balancing-bears)      | [![TBD](img/loops/bear/habitat.jpg){: .tbd}](#bear-habitat)                  |                                                                       |
 | [![Summer '24](img/loops/bear/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '24](img/loops/bear/fishing.jpg){: .summer}](#a-bear-goes-fishing) | [![Summer '24](img/loops/bear/salmonrun.jpg){: .summer}](#salmon-run) |
 | [![Summer '24](img/loops/bear/archery.jpg){: .summer}](#archery)           | [![Summer '24](img/loops/bear/bb.jpg){: .summer}](#bb-guns)                  |                                                                       |
 
@@ -86,6 +87,18 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * Will be completed automatically as part of Pinewood Derby on 01/24/25
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-bear/)
 
+* ##### Standing Tall
+    * _Required_ - 02/06/25
+    * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
+    * [Protect Yourself Rules Video](https://vimeo.com/325064786)
+    * [Personal Bubble Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%202%20Personal%20Bubble%20worksheet.pdf)
+    * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
+    * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
+    * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
+
+* ##### Makeup Day
+    * 3/7 was a makeup and games day, no new Adventures
 
 ## Take Home Activities (do at home with your family)
 
@@ -99,19 +112,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpktEkORHCg-kCWCSFqg?e=C7wcml)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/chef-tech/)
 
-
-
 ## Upcoming Adventures
-
-* ##### Standing Tall
-    * _Required_ - 02/06/25
-    * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthdtqkWdjsJYA_mIQ?e=C8jIDT)
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/standing-tall/)
-    * [Protect Yourself Rules Video](https://vimeo.com/325064786)
-    * [Personal Bubble Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%202%20Personal%20Bubble%20worksheet.pdf)
-    * [Digital Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%203%20Digital%20Safety%20Pledge.pdf)
-    * [Kitchen Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Kitchen%20Safety.pdf)
-    * [Sports Safety Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Standing%20Tall%204%20Sport%20Safety%20Gear.pdf)
 
 * ##### Let's Camp
     * 2/20 for requirements 1-4
@@ -133,6 +134,23 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * Trash Game - [Timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline.pdf) and [matching cards](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Cards.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Key.pdf)
     * [Fire Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%206%20Fire%20Danger%20Matching%20Game.pdf)
     * [Leave no Trace for Kids](https://1drv.ms/w/s!Amnwl-PZ2kHpksFYXPPVxRGT2Tu3gw?e=3XYUAh)
+
+* ##### Carnival
+    * TBD but Carnival scheduled for 5/2 pack meeting
+    * Each den will make some games for the carnival prior to pack meeting
+
+* ##### Super Science
+    * TBD 
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/super-science/)
+
+* ##### Critter Care
+    * TBD - Requires field trip
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/critter-care/)
+
+* ##### Balancing Bears
+    * TBD - requires good weather
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/balancing-bears/)
+
 
 
 ## From 2024 Summer Camp
