@@ -19,7 +19,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 | [![10/17 &amp; 12/05](img/loops/bear/marbles.jpg)](#marble-madness)        | [![11/12](img/loops/bear/paws.jpg)](#paws-for-action)                        | [![Home](img/loops/bear/fellowship.jpg)](#fellowship)                 |
 | [![12/19](img/loops/bear/builder.jpg)](#baloo-the-builder)                 | [![1/16](img/loops/bear/whittling.jpg)](#whittling)                          | [![1/24](img/loops/bear/racetime.jpg)](#race-time)                    |
 | [![2/6](img/loops/bear/standing.jpg)](#standing-tall)                      | [![2/20 + Camp](img/loops/bear/camp.jpg){: .tbd}](#lets-camp)                | [![Home](img/loops/bear/cheftech.jpg)](#chef-tech)                    |
-| [![TBD](img/loops/bear/science.jpg){: .tbd}](#super-science)               | [![TBD](img/loops/noloopcarnival.jpg){: .tbd}](#carnival)                          | [![TBD](img/loops/bear/crittercare.jpg){: .tbd}](#critter-care)       |
+| [![3/20](img/loops/bear/science.jpg)](#super-science)                      | [![4/17](img/loops/noloopcarnival.jpg)](#carnival)                           | [![TBD](img/loops/bear/crittercare.jpg){: .tbd}](#critter-care)       |
 | [![TBD](img/loops/bear/balancingbears.jpg){: .tbd}](#balancing-bears)      | [![TBD](img/loops/bear/habitat.jpg){: .tbd}](#bear-habitat)                  |                                                                       |
 | [![Summer '24](img/loops/bear/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '24](img/loops/bear/fishing.jpg){: .summer}](#a-bear-goes-fishing) | [![Summer '24](img/loops/bear/salmonrun.jpg){: .summer}](#salmon-run) |
 | [![Summer '24](img/loops/bear/archery.jpg){: .summer}](#archery)           | [![Summer '24](img/loops/bear/bb.jpg){: .summer}](#bb-guns)                  |                                                                       |
@@ -126,6 +126,21 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 
 ## Upcoming Adventures
 
+* ##### Super Science
+    * 3/20
+    * Race the Can - use empty soda can and balloon per scout use static electricity to move the can
+    * Sink or Swim - use large cups, eggs, salt, sugar, water to test floating
+    * Oil and Water - use jar of water and oil and food coloring to see how differnt liquids mix
+    * Create a Rainbow - use sugar, water, and food coloring in six cups to show fluid density 
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/super-science/)
+    * [Sink or Swim Chart](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Super%20Science%202%20Sink%20or%20Swim%20Chart.pdf)
+
+* ##### Carnival
+    * 4/17
+    * Carnival scheduled for 5/2 pack meeting
+    * Each den will make some games for the carnival prior to pack meeting
+    * This is simply a fun activity and no belt loop will be awarded
+
 * ##### Bear Habitat
     * _Required_ - one week in meeting, one hike, targeting Spring
     * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkthbVlxQXZ5rTt6PMw?e=FgvYKh)
@@ -134,15 +149,6 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * Trash Game - [Timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline.pdf) and [matching cards](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Cards.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Key.pdf)
     * [Fire Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%206%20Fire%20Danger%20Matching%20Game.pdf)
     * [Leave no Trace for Kids](https://1drv.ms/w/s!Amnwl-PZ2kHpksFYXPPVxRGT2Tu3gw?e=3XYUAh)
-
-* ##### Carnival
-    * TBD but Carnival scheduled for 5/2 pack meeting
-    * Each den will make some games for the carnival prior to pack meeting
-    * This is simply a fun activity and no belt loop will be awarded
-
-* ##### Super Science
-    * TBD
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/super-science/)
 
 * ##### Critter Care
     * TBD - Requires field trip
