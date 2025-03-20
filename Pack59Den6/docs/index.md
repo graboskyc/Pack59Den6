@@ -128,10 +128,12 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 
 * ##### Super Science
     * 3/20
-    * Race the Can - use empty soda can and balloon per scout use static electricity to move the can
-    * Sink or Swim - use large cups, eggs, salt, sugar, water to test floating
-    * Oil and Water - use jar of water and oil and food coloring to see how differnt liquids mix
-    * Create a Rainbow - use sugar, water, and food coloring in six cups to show fluid density 
+    * Conduct 4 science experiments:
+        * Race the Can - use empty soda can and balloon per scout use static electricity to move the can
+        * Sink or Swim - use large cups, eggs, salt, sugar, water to test floating
+        * Oil and Water - use jar of water and oil and food coloring to see how differnt liquids mix
+        * Create a Rainbow - use sugar, water, and food coloring in six cups to show fluid density 
+    * [Chris's Den Guide](https://1drv.ms/w/s!Amnwl-PZ2kHpkuh05H6-e3JPswqACQ?e=wFE2Jq)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/super-science/)
     * [Sink or Swim Chart](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Super%20Science%202%20Sink%20or%20Swim%20Chart.pdf)
 
