@@ -19,8 +19,7 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
 | [![10/17 &amp; 12/05](img/loops/bear/marbles.jpg)](#marble-madness)        | [![11/12](img/loops/bear/paws.jpg)](#paws-for-action)                        | [![Home](img/loops/bear/fellowship.jpg)](#fellowship)                 |
 | [![12/19](img/loops/bear/builder.jpg)](#baloo-the-builder)                 | [![1/16](img/loops/bear/whittling.jpg)](#whittling)                          | [![1/24](img/loops/bear/racetime.jpg)](#race-time)                    |
 | [![2/6](img/loops/bear/standing.jpg)](#standing-tall)                      | [![2/20 + Camp](img/loops/bear/camp.jpg)](#lets-camp)                        | [![Home](img/loops/bear/cheftech.jpg)](#chef-tech)                    |
-| [![3/20](img/loops/bear/science.jpg)](#super-science)                      | [![4/17](img/loops/noloopcarnival.jpg)](#carnival)                           | [![TBD](img/loops/bear/crittercare.jpg){: .tbd}](#critter-care)       |
-| [![TBD](img/loops/bear/balancingbears.jpg){: .tbd}](#balancing-bears)      | [![TBD](img/loops/bear/habitat.jpg){: .tbd}](#bear-habitat)                  |                                                                       |
+| [![3/20](img/loops/bear/science.jpg)](#super-science)                      | [![4/17](img/loops/noloopcarnival.jpg)](#carnival)                           | [![5/1](img/loops/bear/habitat.jpg){: .tbd}](#bear-habitat)           |
 | [![Summer '24](img/loops/bear/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '24](img/loops/bear/fishing.jpg){: .summer}](#a-bear-goes-fishing) | [![Summer '24](img/loops/bear/salmonrun.jpg){: .summer}](#salmon-run) |
 | [![Sum '24 or 4/6](img/loops/bear/archery.jpg){: .summer}](#archery)       | [![Sum '24 or 4/6](img/loops/bear/bb.jpg){: .summer}](#bb-guns)              |                                                                       |
 
@@ -151,15 +150,6 @@ You can see all Bear Adventures on the Cub Scouts website [here](https://www.sco
     * Trash Game - [Timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline.pdf) and [matching cards](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Cards.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%204%20Trash%20Timeline%20Key.pdf)
     * [Fire Game](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/bear/Bear%20Habitat%206%20Fire%20Danger%20Matching%20Game.pdf)
     * [Leave no Trace for Kids](https://1drv.ms/w/s!Amnwl-PZ2kHpksFYXPPVxRGT2Tu3gw?e=3XYUAh)
-
-* ##### Balancing Bears
-    * TBD - requires good weather and light in evening 
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/balancing-bears/)
-
-* ##### Critter Care
-    * TBD - Requires field trip
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/critter-care/)
-
 
 ## From 2024 Summer Camp
 
