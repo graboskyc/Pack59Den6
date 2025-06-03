@@ -1,6 +1,7 @@
 site_name: Pack 59 Den 6 Bears
 nav:
-  - Bear: index.md
+  - Webelo: index.md
+  - Bear: bear.md
   - Wolf: wolf.md
   - Tiger: tiger.md
   - Lion: lion.md
