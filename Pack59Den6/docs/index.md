@@ -1,13 +1,15 @@
 # Hello, Webelos!
 
-This is the home page for Pack 59 Den 6 (Bears).
+This is the home page for Pack 59 Den 6 (Webelos).
 
-Each Adventure below will have a Chris's Den Guide which is something I write to guide the Adventure together. You can see other similar ideas on the Scouting.org Adventure page for that Adventure. There may be other auxiliary materials for each Adventure (videos, printable games, etc) that are also enumerated.  
+Each Adventure below will have Chris's notes on how he conducted the adventure in the Den meeting. If you miss the meeting and are making it up, you can either do the exact same thing, or visit the linked adventure on Scouting.org to see alternate options. 
+
+There may be other auxiliary materials for each Adventure (videos, printable games, etc) that are also enumerated.  
 
 # Requirements
 This year we must complete **six** required Adventures and any **two** elective Adventures.
 
-Required Adventures have a color icon on the belt loop while electives are a monochromatic dark green.
+We also shift from Belt Loops like previous years to Pins this year.
 
 You can see all Webelo Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/webelos/).
 
