@@ -56,8 +56,8 @@ You can see all Webelo Adventures on the Cub Scouts website [here](https://www.s
         * _Store_ – knives closed, in a sheath or knife block 
 
 * ##### My Family
-    * _Required_ - To be completed **at home** with your family and discuss faith
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-family/) guide to complete an item from each of the 4 steps:
+    * _Required_ - To be completed **at home** with your family and discuss faith. Complete one item from each of the 4 bullet points below. Using a piece of notebook paper, explain what you did and turn it into the Den Leader.
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-family/)
         * Create a [collage](https://www.scouting.org/cub-scout-activities/multimedia-collage/) or [wood craft](https://www.scouting.org/cub-scout-activities/wood-crafting/)
         * Carry out an act of kindness like [doing dishes](https://www.scouting.org/cub-scout-activities/a-dish-of-kindness/) or [a chore](https://www.scouting.org/cub-scout-activities/helping-hands/) or [help a neighbor](https://www.scouting.org/cub-scout-activities/neighborly-kindness/)
         * Learn about [another faith](https://www.scouting.org/cub-scout-activities/exploring-faith/)
