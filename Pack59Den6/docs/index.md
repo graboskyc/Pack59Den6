@@ -13,6 +13,8 @@ We also shift from Belt Loops like previous years to Pins this year. The require
 
 You can see all Webelo Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/webelos/).
 
+The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
+
 ## Adventures (in order of schedule)
 
 | Column 1                                                                      | Column 2                                                            | Column 3                                                                  |
@@ -57,6 +59,7 @@ You can see all Webelo Adventures on the Cub Scouts website [here](https://www.s
 
 * ##### My Family
     * _Required_ - To be completed **at home** with your family and discuss faith. Complete one item from each of the 4 bullet points below. Using a piece of notebook paper, explain what you did and turn it into the Den Leader.
+    * [Chris's Den Guide Handout](assets/webelos/MyFamily.pdf)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-family/)
         * Create a [collage](https://www.scouting.org/cub-scout-activities/multimedia-collage/) or [wood craft](https://www.scouting.org/cub-scout-activities/wood-crafting/)
         * Carry out an act of kindness like [doing dishes](https://www.scouting.org/cub-scout-activities/a-dish-of-kindness/) or [a chore](https://www.scouting.org/cub-scout-activities/helping-hands/) or [help a neighbor](https://www.scouting.org/cub-scout-activities/neighborly-kindness/)
