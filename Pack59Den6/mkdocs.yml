@@ -1,10 +1,17 @@
 site_name: Pack 59 Den 6 Bears
 nav:
-  - Webelo: index.md
-  - Bear: bear.md
-  - Wolf: wolf.md
-  - Tiger: tiger.md
-  - Lion: lion.md
+  - FAQ: faq.md
+  - Ranks:
+    - Webelo: index.md
+    - Bear: bear.md
+    - Wolf: wolf.md
+    - Tiger: tiger.md
+    - Lion: lion.md
+  - Links:
+    - ScoutBook: https://scoutbook.scouting.org/
+    - Pack Site: https://pack59nj.org/
+    - Pack Facebook: https://www.facebook.com/groups/pack59cinnaminson/
+    - Pack Email: http://branchpike.com/mailman/listinfo/pack59_branchpike.com
 theme:
   name: null
   custom_dir: 'custom_theme/'
