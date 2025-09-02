@@ -87,11 +87,36 @@
                 </ul>
                 {% if nav|length > 1 %}
                     <ul>
-                    {% for nav_item in nav %}
-                        <li class="{% if nav_item.active %}current{% endif %}">
-                            <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+                        <li>
+                            <a href="/">Home</a>
                         </li>
-                    {% endfor %}
+                        <li>
+                            <details class="dropdown">
+                                <summary>
+                                    By Rank
+                                </summary>
+                                <ul>
+                                    {% for nav_item in nav %}
+                                        <li class="{% if nav_item.active %}current{% endif %}">
+                                            <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </details>
+                        </li>
+                        <li>
+                            <details class="dropdown">
+                                <summary>
+                                    Links
+                                </summary>
+                                <ul>
+                                    <li><a target="_blank" href="https://scoutbook.scouting.org/">ScoutBook</a></li>
+                                    <li><a target="_blank" href="https://pack59nj.org/">Pack Site</a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/groups/pack59cinnaminson/">Pack Facebook</a></li>
+                                    <li><a target="_blank" href="http://branchpike.com/mailman/listinfo/pack59_branchpike.com">Pack Email</a></li>
+                                </ul>
+                            </details>
+                        </li>
                     </ul>
                 {% endif %}
             </nav>
@@ -99,16 +124,6 @@
                 <div class="herobg">
                     <h1>Pack 59 Den 6</h1>
                     <h2>Cinnaminson, NJ</h2>
-                </div>
-            </article>
-
-            <article class="container-fluid" data-theme="light">
-                <header><h2>Pack Links</h2></header>
-                <div class="grid">
-                    <a role="button" target="_blank" href="https://scoutbook.scouting.org/">ScoutBook</a>
-                    <a role="button" target="_blank" href="https://pack59nj.org/">Pack Site</a>
-                    <a role="button" target="_blank" href="https://www.facebook.com/groups/pack59cinnaminson/">Pack Facebook</a>
-                    <a role="button" target="_blank" href="http://branchpike.com/mailman/listinfo/pack59_branchpike.com">Pack Email</a>
                 </div>
             </article>
 
