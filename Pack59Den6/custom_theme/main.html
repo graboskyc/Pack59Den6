@@ -73,6 +73,19 @@
                 width: 100% !important;
                 border:solid 1px #777; 
             }
+            .nav-solo-item {
+                border: var(--pico-border-width) solid var(--pico-form-element-border-color);
+                border-radius: var(--pico-border-radius);
+                background-color: var(--pico-form-element-background-color);
+                color: var(--pico-form-element-placeholder-color);
+                line-height: inherit;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                user-select: none;
+                transition: background-color var(--pico-transition), border-color var(--pico-transition), color var(--pico-transition), box-shadow var(--pico-transition);
+                margin: calc(var(--pico-nav-element-spacing-vertical) * -1) 0;
+            }
         </style>
 
         {%- for path in config.extra_css %}
@@ -87,12 +100,12 @@
                 </ul>
                 <ul>
                     <li>
-                        <a href="/">Home</a>
+                        <a class="nav-solo-item" href="/">Home</a>
                     </li>
                     {% for nav_item in nav %}
                         {% if not nav_item.children %}
                             <li>
-                                <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+                                <a class="nav-solo-item" href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
                             </li>
                         {% else %}
                             <li>
