@@ -17,12 +17,12 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 ## Adventures (in order of schedule)
 
-| Column 1                                                                      | Column 2                                                            | Column 3                                                                  |
-|-------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![10/15](img/loops/webelos/knife.jpg){: .tbd}](#chefs-knife)       | [![HOME](img/loops/webelos/family.jpg){: .tbd}](#my-family)               |
-| [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community)              | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)                |
-| [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp)              |
-| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)            |
+| Column 1                                                                      | Column 2                                                            | Column 3                                                         |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg){: .tbd}](#my-family)      |
+| [![10/15](img/loops/webelos/knife.jpg){: .tbd}](#chefs-knife)                 | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)       |
+| [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community) |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)   |
 
 ## Adventure Guides
 
@@ -42,6 +42,30 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
     * [Youth Protection - "How to Protect Your Children from Child Abuse: A Parent’s Guide."](https://filestore.scouting.org/filestore/pdf/100-014_WEB.pdf)
     * [How to run a Flag Ceremony](https://vimeo.com/348611068) and [how to fold the flag](https://scoutlife.org/video-audio/145871/how-to-display-and-fold-the-american-flag/)
 
+* ##### Let's Camp
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-webelos/)
+    * To be completed in a Den meeting (TBD)
+        * Tent set up race
+        * Dangerous weather [game sheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%204%20Weather%20Emergency%20Preparedness%20Drill%20Game.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%27s%20Camp%204%20Weather%20and%20Emergency%20Drill%20Key.pdf)
+        * Tie a bowling knot [guide](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%27s%20Camp%205%20Bowline%20Knot.pdf)
+        * Complete fire safety [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%206%20Campfire%20Safety.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%206%20Campfire%20Safety%20Key.pdf)
+        * Learn how to build and extinguish a [teepee campfire](https://www.scouting.org/cub-scout-activities/build-a-fire/)
+        * Learn and memorize Leave no Trace and Outdoor code via the [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%208%20Memorize%20LNT%20and%20Outdoor%20Code.pdf)
+    * To be completed on Oct 10-12, May 1-3, or our overnight (TBD)
+        * Attend one of the 3 camping dates
+        * Determine where to set up camp at the camp site
+        * Set up your tent without help from an adult
+        * Share how they applied the Outdoor Code and Leave No Trace
+
+* ##### My Family
+    * _Required_ - To be completed **at home** with your family and discuss faith. Complete one item from each of the 4 bullet points below. Using a piece of notebook paper, explain what you did and turn it into the Den Leader.
+    * [Chris's Den Guide Handout](assets/webelos/MyFamily.pdf)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-family/)
+        * Create a [collage](https://www.scouting.org/cub-scout-activities/multimedia-collage/) or [wood craft](https://www.scouting.org/cub-scout-activities/wood-crafting/)
+        * Carry out an act of kindness like [doing dishes](https://www.scouting.org/cub-scout-activities/a-dish-of-kindness/) or [a chore](https://www.scouting.org/cub-scout-activities/helping-hands/) or [help a neighbor](https://www.scouting.org/cub-scout-activities/neighborly-kindness/)
+        * Learn about [another faith](https://www.scouting.org/cub-scout-activities/exploring-faith/)
+        * Discuss [reverence](https://www.scouting.org/cub-scout-activities/reverence-reflection/)
+
 * ##### Chef's Knife
     * 10/15/25
     * _PACKING LIST_ - Den flag, American flag, [crossword printouts](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Chef%27s%20Knife%201%20Webelos%20Knife%20Safety%20Rules%20Crossword.pdf), [crossword answerkey](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Chef%27s%20Knife%201%20Webelos%20Knife%20Safety%20Rules%20Crossword%20Key.pdf), first aid kit, new card print outs, 6 inch kitchen knife per child, whetstone, honing rod, food to cut
@@ -56,15 +80,6 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
         * _Away_ – always cut away from your finger or other body parts 
         * _Sharp_ – a sharp, clean knife is a safe knife 
         * _Store_ – knives closed, in a sheath or knife block 
-
-* ##### My Family
-    * _Required_ - To be completed **at home** with your family and discuss faith. Complete one item from each of the 4 bullet points below. Using a piece of notebook paper, explain what you did and turn it into the Den Leader.
-    * [Chris's Den Guide Handout](assets/webelos/MyFamily.pdf)
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-family/)
-        * Create a [collage](https://www.scouting.org/cub-scout-activities/multimedia-collage/) or [wood craft](https://www.scouting.org/cub-scout-activities/wood-crafting/)
-        * Carry out an act of kindness like [doing dishes](https://www.scouting.org/cub-scout-activities/a-dish-of-kindness/) or [a chore](https://www.scouting.org/cub-scout-activities/helping-hands/) or [help a neighbor](https://www.scouting.org/cub-scout-activities/neighborly-kindness/)
-        * Learn about [another faith](https://www.scouting.org/cub-scout-activities/exploring-faith/)
-        * Discuss [reverence](https://www.scouting.org/cub-scout-activities/reverence-reflection/)
 
 * ##### Walkabout
     * _Required_ - TBD
@@ -89,10 +104,6 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 * ##### Race Time
     * Will be completed with Pinewood Derby
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-webelos/)
-
-* ##### Let's Camp
-    * Will be completed with Pack camping trip
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-webelos/)
 
 ## From 2025 Summer Camp
 
