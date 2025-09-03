@@ -14,7 +14,7 @@ hidecalendar: True
 | ![](img/loops/tiger/6_100.png)  |                                 |                                 |                                 |
 
 
-## More Content
+## Adventure Guides (in order)
 
 * Good Knights
     * [Adventure](https://1drv.ms/w/s!Amnwl-PZ2kHpkoQlcHcE9dwW-4rE6A)

@@ -12,7 +12,7 @@ You can see all Webelo Adventures on the Cub Scouts website [here](https://www.s
 
 The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
-## Adventures (in order of schedule)
+## Adventures
 
 | Column 1                                                                      | Column 2                                                            | Column 3                                                         |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|
@@ -21,7 +21,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 | [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community) |
 | [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)   |
 
-## Adventures
+## Adventure Guides (in order)
 
 * ##### Bobcat
     * _Required_ - 09/17/25
