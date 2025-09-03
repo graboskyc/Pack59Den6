@@ -1,10 +1,10 @@
-# Lion
+---
+welcometitle: Hello Former Lions!
+welcometext: Thanks for completing Lion Rank! Look at some of the fun we had! This year our Den Leader was Jenn and Assistant Den Leader was Chris.
+hidecalendar: True
+---
 
-Thanks for completing Lion Rank! Look at some of the fun we had!
-
-This year our Den Leader was Jenn and Assistant Den Leader was Chris.
-
-## Completed Adventures
+## Adventures
 
 | Column 1                       | Column 2                       | Column 3                       | Column 4                       |
 |--------------------------------|--------------------------------|--------------------------------|--------------------------------|

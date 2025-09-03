@@ -1,6 +1,8 @@
-# Frequently Asked Questions
-
-Below you will find a list of frequently asked questions, broken out by the Basics, Bobcat-specific, and finally FAQs related to events and activities.
+---
+welcometitle: Frequently Asked Questions
+welcometext: Below you will find a list of frequently asked questions, broken out by the Basics, Bobcat-specific, and finally FAQs related to events and activities.
+hidecalendar: True
+---
 
 <article class="container-fluid" data-theme="light">
     <header><h2>The Basics FAQ</h2></header>

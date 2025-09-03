@@ -18,3 +18,4 @@ theme:
 markdown_extensions:
   - markdown_captions
   - attr_list
+  - meta

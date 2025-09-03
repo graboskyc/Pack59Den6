@@ -134,7 +134,23 @@
             </article>
 
             <article class="container-fluid" data-theme="light">
-                <header><h2>Calendars from ScoutBook</h2></header>
+                <header><h2>{{page.meta.welcometitle}}</h2></header>
+                <p>{{page.meta.welcometext}}</p>
+                {%- if not page.meta.hidecalendar %}
+                    <div class="grid" style="margin-top:1rem;">
+                        <a role="button" href="#calendarsfromscoutbook">
+                            Jump To Calenendar
+                        </a>
+                        <a role="button" href="#adventures">
+                            Jump to Adventures
+                        </a>
+                    </div>
+                {%- endif %}
+            </article>
+
+            {%- if not page.meta.hidecalendar %}
+            <article class="container-fluid" data-theme="light">
+                <header><h2 id="calendarsfromscoutbook">Calendars from ScoutBook</h2></header>
                 <iframe 
                     src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showTabs=0&showCalendars=0&showTz=0&showTitle=0&src=aW5xcTBmZms5aDJndWQ5dWl1N2swMHIxcHNldWJxdjZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ODgyM3M2aWJuaG1vaXR1c2ZmM2xrdWhpc2QwYzdnNWJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f6bf26&color=%23f6bf26"
                     class="iframe-cal"
@@ -151,8 +167,8 @@
                         Subscribe to Den Calendar (ICS)
                     </a>
                 </div>
-                
             </article>
+            {%- endif %}
 
             <article class="container-fluid" data-theme="light" style="min-height: 85vh;">
                 {{ page.content }}

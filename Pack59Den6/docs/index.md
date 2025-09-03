@@ -1,10 +1,7 @@
-# Hello, Webelos!
-
-This is the home page for Pack 59 Den 6 (Webelos).
-
-Each Adventure below will have Chris's notes on how he conducted the adventure in the Den meeting. If you miss the meeting and are making it up, you can either do the exact same thing, or visit the linked adventure on Scouting.org to see alternate options. 
-
-There may be other auxiliary materials for each Adventure (videos, printable games, etc) that are also enumerated.  
+---
+welcometitle: Hello, Webelos!
+welcometext: This is the home page for Pack 59 Den 6 (Webelos). Each Adventure below will have Chris's notes on how he conducted the adventure in the Den meeting. If you miss the meeting and are making it up, you can either do the exact same thing, or visit the linked adventure on Scouting.org to see alternate options. There may be other auxiliary materials for each Adventure (videos, printable games, etc) that are also enumerated. 
+---
 
 # Requirements
 This year we must complete **six** required Adventures and any **two** elective Adventures.
@@ -24,7 +21,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 | [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community) |
 | [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)   |
 
-## Adventure Guides
+## Adventures
 
 * ##### Bobcat
     * _Required_ - 09/17/25
