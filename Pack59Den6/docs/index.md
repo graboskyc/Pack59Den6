@@ -14,12 +14,13 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 ## Adventures
 
-| Column 1                                                                      | Column 2                                                            | Column 3                                                         |
-|-------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg){: .tbd}](#my-family)      |
-| [![10/15](img/loops/webelos/knife.jpg){: .tbd}](#chefs-knife)                 | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)       |
-| [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community) |
-| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)   |
+| Column 1                                                                      | Column 2                                                            | Column 3                                                                   |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg){: .tbd}](#my-family)                |
+| [![10/15](img/loops/webelos/knife.jpg){: .tbd}](#chefs-knife)                 | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       | [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail) |
+| [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/community.jpg){: .tbd}](#my-community)           |
+| [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)                    |                                                                     |                                                                            |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)             |
 
 ## Adventure Guides (in order)
 
@@ -80,8 +81,15 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 * ##### Walkabout
     * _Required_ - TBD
+    * Will be completed along with [Tech on the Trail](#tech-on-the-trail)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/webelos-walkabout/)
         * 2 mile hike, first aid, planning, leave no trace, etc
+
+* ##### Tech On The Trail
+    * TBD
+    * Will be completed along with [Walkabout](#walkabout)
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/tech-on-the-trail/)
+        * tech safety outdoors, understanding GPS, plan 2 mile hike on a tech platform, do 2 mile walk
 
 * ##### Stronger, Faster, Higher
     * _Required_ - TBD
