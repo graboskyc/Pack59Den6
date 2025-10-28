@@ -99,7 +99,15 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 * ##### My Community
     * _Required_ - TBD
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-community/)
-        * voting, meeting elected official, research a law, do a service project
+        * Voting 
+           * We will hold an election on what snack to have for the next meeting
+           * Discuss majority vs plurality voting 
+        * Meeting Elected Official - TBD, in the works
+        * Research a Law
+           * Discuss [Separation of Powers](https://www.youtube.com/watch?v=HuFR5XBYLfU) and [Checks and Balances](https://www.youtube.com/watch?v=S4ymux9l-Qo)
+           * Learn about the [ADA](https://adata.org/learn-about-ada) and the [timelime](https://www.scouting.org/cub-scout-activities/history-of-the-americans-with-disabilities-act/)
+           * Scouts will make the timeline by glueing [stickers](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20branch.pdf) onto the [timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20timeline.pdf)
+        * Complete a service project such as Scouting for Food 
 
 * ##### My Safety
     * _Required_ - TBD
