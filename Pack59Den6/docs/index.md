@@ -16,7 +16,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 | Column 1                                                                      | Column 2                                                            | Column 3                                                                   |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg){: .tbd}](#my-family)                |
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)                        |
 | [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg){: .tbd}](#my-community)   | [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail) |
 | [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)              |
 | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)                    |                                                                     |                                                                            |
