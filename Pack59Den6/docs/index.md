@@ -83,13 +83,13 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
     * _Required_ - 11/5
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-community/)
         * Voting 
-           * We will hold an election on what Adventure to do in the next meeting
-           * Discuss majority vs plurality voting 
+            * We will hold an election on what Adventure to do in the next meeting
+            * Discuss majority vs plurality voting 
         * Meeting Elected Official - Paul Conda from Cinnaminson Township Committee 
         * Research a Law
-           * Discuss [Separation of Powers](https://www.youtube.com/watch?v=HuFR5XBYLfU) and [Checks and Balances](https://www.youtube.com/watch?v=S4ymux9l-Qo)
-           * Learn about the [ADA](https://adata.org/learn-about-ada) and the [timelime](https://www.scouting.org/cub-scout-activities/history-of-the-americans-with-disabilities-act/)
-           * Scouts will make the timeline by glueing [stickers](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20branch.pdf) onto the [timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20timeline.pdf)
+            * Discuss [Separation of Powers](https://www.youtube.com/watch?v=HuFR5XBYLfU) and [Checks and Balances](https://www.youtube.com/watch?v=S4ymux9l-Qo)
+            * Learn about the [ADA](https://adata.org/learn-about-ada) and the [timelime](https://www.scouting.org/cub-scout-activities/history-of-the-americans-with-disabilities-act/)
+            * Scouts will make the timeline by glueing [stickers](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20branch.pdf) onto the [timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20timeline.pdf)
         * Complete a service project such as Scouting for Food 
 
 * ##### Walkabout
