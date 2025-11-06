@@ -14,13 +14,13 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 ## Adventures
 
-| Column 1                                                                      | Column 2                                                            | Column 3                                                                   |
-|-------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------|
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)                        |
-| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg){: .tbd}](#my-community)   | [![TBD](img/loops/webelos/rocks.jpg){: .tbd}](#earth-rocks)                |
-| [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![TBD](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)              |
-| [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)                    | [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}]              |                                                                            |
-| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)             |
+| Column 1                                                                      | Column 2                                                             | Column 3                                                                   |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------|
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp)  | [![HOME](img/loops/webelos/family.jpg)](#my-family)                        |
+| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)            | [![11/16](img/loops/webelos/rocks.jpg){: .tbd}](#earth-rocks)              |
+| [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)              |
+| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)           |                                                                            |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery)  | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)             |
 
 ## Adventure Guides (in order)
 
@@ -93,7 +93,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
         * Complete a service project such as Scouting for Food 
 
 *  ##### Earth Rocks
-    * TBD
+    * 11/16
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/earth-rocks/)
         * Examine sedimentary, igeous, and metamorphic rocks
             * Complete [worksheet](assets/webelos/RockTypes.docx) - answers: Sedimentary, Igneous, Igneous, Sedimentary, Metamorphic, Sedimentary, Igneous, Metamorphic
@@ -132,7 +132,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
         * understand hazards around the house
 
 * ##### Race Time
-    * Will be completed with Pinewood Derby
+    * Will be completed with Pinewood Derby on 1/16
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-webelos/)
 
 ## From 2025 Summer Camp
