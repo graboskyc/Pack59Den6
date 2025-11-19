@@ -17,8 +17,8 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 | Column 1                                                                      | Column 2                                                             | Column 3                                                                   |
 |-------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------|
 | [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp)  | [![HOME](img/loops/webelos/family.jpg)](#my-family)                        |
-| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)            | [![11/16](img/loops/webelos/rocks.jpg){: .tbd}](#earth-rocks)              |
-| [![TBD](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)     | [![1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)              |
+| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)            | [![11/16](img/loops/webelos/rocks.jpg)(#earth-rocks)                       |
+| [![12/3](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)    | [![1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)              |
 | [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)           |                                                                            |
 | [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery)  | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)             |
 
@@ -90,12 +90,16 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
             * Discuss [Separation of Powers](https://www.youtube.com/watch?v=HuFR5XBYLfU) and [Checks and Balances](https://www.youtube.com/watch?v=S4ymux9l-Qo)
             * Learn about the [ADA](https://adata.org/learn-about-ada) and the [timelime](https://www.scouting.org/cub-scout-activities/history-of-the-americans-with-disabilities-act/)
             * Scouts will make the timeline by glueing [stickers](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20branch.pdf) onto the [timeline](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Community%203%20History%20of%20the%20ADA%20Act%20timeline.pdf)
-        * Complete a service project such as Scouting for Food 
+        * Complete a service project such as Scouting for Food
+            * [About Food Bank of South Jersey](https://foodbanksj.org/our-story/)
+            * Pack 59 and Troop 70 combined provided `6555 items in 2025 (3756 items from our Pack alone)`, `5,196 items in 2023`, `5585 items in 2022`, `5240 food items in 2021`, and Pack 59 alone provided `5,569 items in 2020`, `2557 items in 2019`, `1714 items in 2018`
+            * [About Video](https://www.youtube.com/watch?v=U9ELW6oVAEE) 
 
 *  ##### Earth Rocks
     * 11/16
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/earth-rocks/)
         * Examine sedimentary, igeous, and metamorphic rocks
+            * [Music Video](https://www.youtube.com/watch?v=6pyrlVrK4Nc) on rock types from PBS Kids
             * Complete [worksheet](assets/webelos/RockTypes.docx) - answers: Sedimentary, Igneous, Igneous, Sedimentary, Metamorphic, Sedimentary, Igneous, Metamorphic
         * Break apart a geode
             * Chris will bring a geode kit that kids will take turns opening. Bring hammer and safety glasses and mat and sock or soft container 
@@ -108,7 +112,16 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
             * Scouts pour syrup into cups
             * Get skewer wet and roll in sugar
             * Put it together, take home to cool dark place, wait
+* ##### Stronger, Faster, Higher
+    * _Required_ - 12/3
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/stronger-faster-higher/)
+        * Learn about [My Plate](https://www.myplate.gov/eat-healthy/food-group-gallery)
+        * Design a Family Feast considering Nutrition, Variety, Preferences, and Dietary Needs. Comprise a main dish, side, and dessert and the ingredients required to make it. Fill out the [planner](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Stronger%20Faster%20Higher%201%20Family%20Feast.pdf) and make it at home
+        * Create a work out plan including muscluar strength, cardio, and flexibility. Write the [plan](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Stronger%20Faster%20Higher%203%20Scout%20Fit%20Challenge.pdf) and do it for 15
+        * Identify a high intensity game group game (like Soccer, volleyball, ultimate frisbee, etc) to play for 30 minutes. Explain the rules and play
+        * Cool down with a relaxing activity like listening to music or reading a book for 10 mins
 
+        
 * ##### Walkabout
     * _Required_ - TBD
     * Will be completed along with [Tech on the Trail](#tech-on-the-trail)
@@ -120,11 +133,6 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
     * Will be completed along with [Walkabout](#walkabout)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/tech-on-the-trail/)
         * tech safety outdoors, understanding GPS, plan 2 mile hike on a tech platform, do 2 mile walk
-
-* ##### Stronger, Faster, Higher
-    * _Required_ - TBD
-    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/stronger-faster-higher/)
-        * exercise, plan and cook balanced meal
 
 * ##### My Safety
     * _Required_ - TBD
