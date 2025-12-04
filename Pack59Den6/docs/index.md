@@ -14,13 +14,13 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 ## Adventures
 
-| Column 1                                                                      | Column 2                                                             | Column 3                                                                   |
-|-------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------|
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp)  | [![HOME](img/loops/webelos/family.jpg)](#my-family)                        |
-| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)            | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)                      |
-| [![12/3](img/loops/webelos/stronger.jpg){: .tbd}](#stronger-faster-higher)    | [![1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)        | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)              |
-| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)           |                                                                            |
-| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery)  | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)             |
+| Column 1                                                                      | Column 2                                                            | Column 3                                                       |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------|
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)            |
+| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)           | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)          |
+| [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)        | [![1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)  |
+| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       |                                                                |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
 
 ## Adventure Guides (in order)
 
@@ -137,7 +137,12 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 * ##### My Safety
     * _Required_ - TBD
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-safety/)
-        * understand hazards around the house
+        * Watch [Protect Yourself](https://vimeo.com/901242653) video at home
+        * Using [Hazard Labels](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%202%20Hazard%20Labels.pdf) bring in hazardous items and have Scouts categorize and label and discuss storage. Bring home labels and do it at home, too
+            * For example, drain cleaner, Upholstery cleaner, Motor oil, Furniture polish, Air fresheners, Gardening products, Oven cleaner, Cleaning products, Paint  
+        * Discuss how to make a safety checklist for home, what should be on it, using this [guide](https://www.hhs.gov/sites/default/files/healthy-homes-checklist.pdf)
+        * Be prepared for outdoor safety by completing this [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%204%20Be%20Prepared%20for%20Natural%20Events.pdf)
+            * For example, Earthquakes, Mudslides, Flooding, Hurricanes, Tornadoes  as well as simpler safety (power outages, downed branches and wires, etc)
 
 * ##### Race Time
     * Will be completed with Pinewood Derby on 1/16
