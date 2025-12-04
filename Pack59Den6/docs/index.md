@@ -45,7 +45,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
     * To be completed in a Den meeting (TBD)
         * Tent set up race
         * Dangerous weather [game sheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%204%20Weather%20Emergency%20Preparedness%20Drill%20Game.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%27s%20Camp%204%20Weather%20and%20Emergency%20Drill%20Key.pdf)
-        * Tie a bowling knot [guide](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%27s%20Camp%205%20Bowline%20Knot.pdf)
+        * Tie a bowline knot [guide](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%27s%20Camp%205%20Bowline%20Knot.pdf)
         * Complete fire safety [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%206%20Campfire%20Safety.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%206%20Campfire%20Safety%20Key.pdf)
         * Learn how to build and extinguish a [teepee campfire](https://www.scouting.org/cub-scout-activities/build-a-fire/)
         * Learn and memorize Leave no Trace and Outdoor code via the [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%208%20Memorize%20LNT%20and%20Outdoor%20Code.pdf)
@@ -143,6 +143,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
         * Discuss how to make a safety checklist for home, what should be on it, using this [guide](https://www.hhs.gov/sites/default/files/healthy-homes-checklist.pdf)
         * Be prepared for outdoor safety by completing this [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%204%20Be%20Prepared%20for%20Natural%20Events.pdf)
             * For example, Earthquakes, Mudslides, Flooding, Hurricanes, Tornadoes  as well as simpler safety (power outages, downed branches and wires, etc)
+        * Consider doing the Let's Camp safety worksheets, too
 
 * ##### Race Time
     * Will be completed with Pinewood Derby on 1/16
