@@ -145,7 +145,9 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
             * For example, Earthquakes, Mudslides, Flooding, Hurricanes, Tornadoes  as well as simpler safety (power outages, downed branches and wires, etc)
 
 * ##### Race Time
-    * Will be completed with Pinewood Derby on 1/16
+    * The Scout should build a car and compete in the Pinewood Derby on 1/16
+    * Play [Pinewood Jeopardy](https://jeopardylabs.com/play/pinewood-jeopardy-4)
+    * Follow rules on our [pack site](https://sites.google.com/site/njpack59/activities/pinewood-derby)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-webelos/)
 
 ## From 2025 Summer Camp
