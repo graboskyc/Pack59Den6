@@ -14,13 +14,13 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 ## Adventures
 
-| Column 1                                                                      | Column 2                                                            | Column 3                                                       |
-|-------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------|
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)            |
-| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)           | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)          |
-| [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg){: .tbd}](#my-safety)        | [![1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)  |
-| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       |                                                                |
-| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
+| Column 1                                                                      | Column 2                                                            | Column 3                                                               |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)                    |
+| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)           | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)                  |
+| [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                | [![1/7 and 1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)  |
+| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       |                                                                        |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)         |
 
 ## Adventure Guides (in order)
 
@@ -135,7 +135,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
         * tech safety outdoors, understanding GPS, plan 2 mile hike on a tech platform, do 2 mile walk
 
 * ##### My Safety
-    * _Required_ - TBD
+    * _Required_ - 12/17
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/my-safety/)
         * Watch [Protect Yourself](https://vimeo.com/901242653) video at home
         * Using [Hazard Labels](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%202%20Hazard%20Labels.pdf) bring in hazardous items and have Scouts categorize and label and discuss storage. Bring home labels and do it at home, too
@@ -146,7 +146,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 * ##### Race Time
     * The Scout should build a car and compete in the Pinewood Derby on 1/16
-    * Play [Pinewood Jeopardy](https://jeopardylabs.com/play/pinewood-jeopardy-4)
+    * Play [Pinewood Jeopardy](https://jeopardylabs.com/play/pinewood-jeopardy-4) on 1/7
     * Follow rules on our [pack site](https://sites.google.com/site/njpack59/activities/pinewood-derby)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-webelos/)
 
