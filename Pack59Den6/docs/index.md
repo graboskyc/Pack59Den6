@@ -14,13 +14,13 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 ## Adventures
 
-| Column 1                                                                      | Column 2                                                            | Column 3                                                               |
-|-------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)                    |
-| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)           | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)                  |
-| [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                | [![1/7 and 1/16](img/loops/webelos/racetime.jpg){: .tbd}](#race-time)  |
-| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       |                                                                        |
-| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns)         |
+| Column 1                                                                      | Column 2                                                            | Column 3                                                       |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)            |
+| [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)           | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)          |
+| [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                | [![1/7 and 1/16](img/loops/webelos/racetime.jpg)](#race-time)  |
+| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       |                                                                |
+| [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
 
 ## Adventure Guides (in order)
 
