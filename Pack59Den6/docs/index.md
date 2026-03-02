@@ -147,11 +147,11 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 * #### Modular Design
   * [Scouting.org Adventure](hhttps://www.scouting.org/cub-scout-adventures/modular-design/)
     * Watch [Modular Design Video](https://www.youtube.com/watch?v=20JP8w6_nVA&list=PLSNXjzOnTVU86GweHr7YsjJX5oOUKrgl1)
-      * Identify Reasons: Efficiency in Production Process, Cost-Effective, Flexibility and Customizability, Enhanced Product Quality, Scalability, Encouraging Innovation
+        * Identify Reasons: Efficiency in Production Process, Cost-Effective, Flexibility and Customizability, Enhanced Product Quality, Scalability, Encouraging Innovation
     * Watch real world implementation via module building in [cruise ships](https://www.youtube.com/watch?v=41wstAU8Nv8)
-      * Discuss benefits they saw
+        * Discuss benefits they saw
     * Watch [How to make a PB&J Video](https://www.youtube.com/watch?v=FN2RM-CHkuI) and discuss that we will be writing instructions shortly
-      * Identify Things that Use Modular Design: Cars, Computers, Solar panels, Wind turbines, Elevators, Furniture, Modular building
+        * Identify Things that Use Modular Design: Cars, Computers, Solar panels, Wind turbines, Elevators, Furniture, Modular building
     * Build something & Document it
         * Build a house, spaceship, or castle using the modular building pieces (Lego, Lincoln Logs, or K'nex)  or and without instructions
         * Document the steps as you build in words and or pictures/diagrams. Scouts need to keep in mind the video they just watched and be very specific in their directions. They may want to take apart and rebuild their structure.
