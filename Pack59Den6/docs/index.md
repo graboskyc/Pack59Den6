@@ -19,7 +19,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 | [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp) | [![HOME](img/loops/webelos/family.jpg)](#my-family)            |
 | [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)           | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)          |
 | [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                | [![1/7 and 1/16](img/loops/webelos/racetime.jpg)](#race-time)  |
-| [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail)    | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout)       |                                                                |
+| [![3/4](img/loops/webelos/modulardesign.jpg){: .tbd}](#modular-design)        | [![TBD](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail) | [![TBD](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout) |
 | [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
 
 ## Adventure Guides (in order)
@@ -143,6 +143,21 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
         * Discuss how to make a safety checklist for home, what should be on it, using this [guide](https://www.hhs.gov/sites/default/files/healthy-homes-checklist.pdf)
         * Be prepared for outdoor safety by completing this [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%204%20Be%20Prepared%20for%20Natural%20Events.pdf)
             * For example, Earthquakes, Mudslides, Flooding, Hurricanes, Tornadoes  as well as simpler safety (power outages, downed branches and wires, etc)
+
+* #### Modular Design
+  * [Scouting.org Adventure](hhttps://www.scouting.org/cub-scout-adventures/modular-design/)
+        * Watch [Modular Design Video](https://www.youtube.com/watch?v=20JP8w6_nVA&list=PLSNXjzOnTVU86GweHr7YsjJX5oOUKrgl1)
+            * Identify Reasons: Efficiency in Production Process, Cost-Effective, Flexibility and Customizability, Enhanced Product Quality, Scalability, Encouraging Innovation
+        * Watch real world implementation via module building in [cruise ships](https://www.youtube.com/watch?v=41wstAU8Nv8)
+            * Discuss benefits they saw
+        * Watch [How to make a PB&J Video](https://www.youtube.com/watch?v=FN2RM-CHkuI) and discuss that we will be writing instructions shortly
+            * Identify Things that Use Modular Design: Cars, Computers, Solar panels, Wind turbines, Elevators, Furniture, Modular building
+        * Build something & Document it
+            * Build a house, spaceship, or castle using the modular building pieces (Lego, Lincoln Logs, or K'nex)  or and without instructions
+            * Document the steps as you build in words and or pictures/diagrams. Scouts need to keep in mind the video they just watched and be very specific in their directions. They may want to take apart and rebuild their structure.
+            * Have a Leader take a picture of the creation then disassemble 
+        * Everyone will trade documentation and try and rebuild it. We will then take pictures and see how they match up
+        * Discuss groups that used the same technology (K'nex, Lego, etc) to see how the same pieces built different things. Discuss how one piece of one model may be swapped into another model as it is modular 
 
 * ##### Race Time
     * The Scout should build a car and compete in the Pinewood Derby on 1/16
