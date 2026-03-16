@@ -145,7 +145,9 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
         * SAFE
             * Review [document](https://www.scouting.org/wp-content/uploads/2021/06/680-11421_SAFE.pdf)
         * First aid
-            * We will put injuries in a hat and each scout will pick one. We will "hike" around the room and I will call names to fall with that ailment and scouts will have to figure what to do. We may have a guest speaker to assist
+            * We will put injuries in a hat and each scout will pick one. We will "hike" around the room and I will call names to fall with that ailment and scouts will have to figure what to do. 
+            * Injuries are: BLISTER ON FOOT, SPRAINED ANKLE, SUNBURN, DEHYDRATION, BROKEN FINGER, THORN IN LEG, TICK ON ARM, CUT ON ARM            
+            * We will have a guest speaker and supplies
         * Hike
             * Follow [outdoor code](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Walkabout%206%20The%20Two%20Mile%20Walk.pdf) on two mile hike
         * Do a retrospective after hike
