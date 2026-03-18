@@ -15,11 +15,12 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 ## Adventures
 
 | Column 1                                                                      | Column 2                                                                    | Column 3                                                       |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------|
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp)         | [![HOME](img/loops/webelos/family.jpg)](#my-family)            |
 | [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)                   | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)          |
 | [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                        | [![1/7 and 1/16](img/loops/webelos/racetime.jpg)](#race-time)  |
 | [![3/4](img/loops/webelos/modulardesign.jpg)](#modular-design)                | [![3/18](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail) | [![3/18](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout) |
+| [![TBD](img/loops/noloopcarnival.jpg){: .tbd}](#carnival)                     |                                                                             |                                                                |
 | [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery)         | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
 
 ## Adventure Guides (in order)
@@ -184,6 +185,12 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
     * Play [Pinewood Jeopardy](https://jeopardylabs.com/play/pinewood-jeopardy-4) on 1/7
     * Follow rules on our [pack site](https://sites.google.com/site/njpack59/activities/pinewood-derby)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-webelos/)
+
+* ##### Carnival
+    * TBD
+    * Carnival scheduled for 5/15 pack meeting
+    * Each den will make some games for the carnival prior to pack meeting
+    * This is simply a fun activity and no belt loop will be awarded
 
 ## From 2025 Summer Camp
 
