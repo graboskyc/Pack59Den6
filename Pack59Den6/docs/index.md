@@ -16,9 +16,9 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 | Column 1                                                                      | Column 2                                                                    | Column 3                                                       |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![Camp + TBD](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp)         | [![HOME](img/loops/webelos/family.jpg)](#my-family)            |
+| [![9/17](img/loops/webelos/bobcat.jpg)](#bobcat)                              | [![1/21 + Camp](img/loops/webelos/letscamp.jpg){: .tbd}](#lets-camp)        | [![HOME](img/loops/webelos/family.jpg)](#my-family)            |
 | [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)                   | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)          |
-| [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                        | [![1/7 and 1/16](img/loops/webelos/racetime.jpg)](#race-time)  |
+| [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                        | [![1/7 + 1/16](img/loops/webelos/racetime.jpg)](#race-time)    |
 | [![3/4](img/loops/webelos/modulardesign.jpg)](#modular-design)                | [![3/18](img/loops/webelos/techonthetrail.jpg){: .tbd}](#tech-on-the-trail) | [![3/18](img/loops/webelos/walkabout.jpg){: .tbd}](#walkabout) |
 | [![TBD](img/loops/noloopcarnival.jpg){: .tbd}](#carnival)                     |                                                                             |                                                                |
 | [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery)         | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
@@ -43,14 +43,14 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 
 * ##### Let's Camp
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/lets-camp-webelos/)
-    * To be completed in a Den meeting (TBD)
+    * Completed 1/21 Den Meeting
         * Tent set up race
         * Dangerous weather [game sheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%204%20Weather%20Emergency%20Preparedness%20Drill%20Game.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%27s%20Camp%204%20Weather%20and%20Emergency%20Drill%20Key.pdf)
         * Tie a bowline knot [guide](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%27s%20Camp%205%20Bowline%20Knot.pdf)
         * Complete fire safety [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%206%20Campfire%20Safety.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%206%20Campfire%20Safety%20Key.pdf)
         * Learn how to build and extinguish a [teepee campfire](https://www.scouting.org/cub-scout-activities/build-a-fire/)
         * Learn and memorize Leave no Trace and Outdoor code via the [worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Let%E2%80%99s%20Camp%208%20Memorize%20LNT%20and%20Outdoor%20Code.pdf)
-    * To be completed on Oct 10-12, May 1-3, or our overnight (TBD)
+    * To be completed on Oct 10-12, May 1-3, or our overnight 5/30
         * Attend one of the 3 camping dates
         * Determine where to set up camp at the camp site
         * Set up your tent without help from an adult
