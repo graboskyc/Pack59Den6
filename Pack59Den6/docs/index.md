@@ -133,25 +133,29 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
     * _Required_ - Starting 3/18 + Hike and followups
     * Will be completed along with [Tech on the Trail](#tech-on-the-trail)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/webelos-walkabout/)
-        * Plan Hike with 5 Ws
+        * Session 1 - Plan Hike with 5 Ws
             * Where are we going? - pick a park, pull up digital map (TotT)
             * When will we return? -Timing
             * Who is hiking with us? - Buddy system
             * Why are you going? - Exploring
             * What are you taking? - [Six essentials](https://vimeo.com/498051015) but anything else?
-        * Practice GPS
-            * Do a geo-cache in the parking lot or similar to practice GPS
-        * Weather
-            * Use websites an apps (TotT) to identify weather and forecast
-        * SAFE
+        * Session 1 - SAFE
             * Review [document](https://www.scouting.org/wp-content/uploads/2021/06/680-11421_SAFE.pdf)
-        * First aid
+        * Session 1 - First aid
             * We will put injuries in a hat and each scout will pick one. We will "hike" around the room and I will call names to fall with that ailment and scouts will have to figure what to do. 
             * Injuries are: BLISTER ON FOOT, SPRAINED ANKLE, SUNBURN, DEHYDRATION, BROKEN FINGER, THORN IN LEG, TICK ON ARM, CUT ON ARM            
             * We will have a guest speaker and supplies
-        * Hike
+        * Session 2 - Practice GPS
+            * Pre-install Gaia GPS on a smart device and pre-register with a free account
+            * [Hike Planning Worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Walkabout%202%20Plan.pdf)
+            * [GPS Presentation](assets/webelos/TotT_WhereAmI.pdf)
+            * Identify GPS coordinates of parking lot of Palmyra Nature Cove as starting point
+            * Follow mission on last slide of GPS presentation to learn how to make a 2 mile hiking route digitally using Gaia GPS
+        * Session 2 - Weather
+            * Use websites an apps (TotT) to identify weather and forecast for our hike day
+        * Session 3 - Hike
             * Follow [outdoor code](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Walkabout%206%20The%20Two%20Mile%20Walk.pdf) on two mile hike
-        * Do a retrospective after hike
+        * Session 3 - Do a retrospective after hike
             * Stop doing, start doing, continue doing
 
 * ##### My Safety
