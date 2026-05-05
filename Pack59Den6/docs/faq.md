@@ -85,7 +85,7 @@ hidecalendar: True
     <details>
         <summary role="button">How do I sign up to sell popcorn?</summary>
         <p>Popcorn sales are handled via <a href="https://portal.trails-end.com/" target="_blank">Trails End</a> and 15% of proceeds directly go into your Scout Account.</p>
-        <p>More details on the <a href="https://sites.google.com/site/njpack59/fundraising/popcorn-resources" target="_blank">pack site</a>.</p>
+        <p>More details on the <a href="https://sites.google.com/site/njpack59/fundraising_1/popcorn" target="_blank">pack site</a>.</p>
         <p>When signing up, you will create an account on the Trails End website. Enter that you are:
                 <code>Garden State Council</code> and <code>Pinelands</code> district and <code>Pack 4059</code>. This should create a sign up code of <code>Q8VYD</code>.
             Now you have an account that benefits the Pack and you can sell at shifts using the app. However if you want your scout to get credit for online purchases, there 
