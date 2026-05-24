@@ -20,7 +20,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
 | [![10/15](img/loops/webelos/knife.jpg)](#chefs-knife)                         | [![11/5](img/loops/webelos/community.jpg)](#my-community)           | [![11/16](img/loops/webelos/rocks.jpg)](#earth-rocks)          |
 | [![12/3](img/loops/webelos/stronger.jpg)](#stronger-faster-higher)            | [![12/17](img/loops/webelos/safety.jpg)](#my-safety)                | [![1/7 + 1/16](img/loops/webelos/racetime.jpg)](#race-time)    |
 | [![3/4](img/loops/webelos/modulardesign.jpg)](#modular-design)                | [![3/18](img/loops/webelos/techonthetrail.jpg)](#tech-on-the-trail) | [![3/18](img/loops/webelos/walkabout.jpg)](#walkabout)         |
-| [![5/6](img/loops/noloopcarnival.jpg)](#carnival)                             |                                                                     |                                                                |
+| [![5/6](img/loops/webelos/carnival.jpg)](#carnival)                             |                                                                     |                                                                |
 | [![Summer '25](img/loops/webelos/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '25](img/loops/webelos/archery.jpg){: .summer}](#archery) | [![Summer '25](img/loops/webelos/bb.jpg){: .summer}](#bb-guns) |
 
 ## Adventure Guides (in order)
@@ -191,7 +191,7 @@ The [week 1 handout is available here](assets/webelos/Week1Info.pdf)
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-webelos/)
 
 * ##### Carnival
-    * TBD
+    * Optional meeting for fun, not an adventure - 5/6
     * Carnival scheduled for 5/15 pack meeting
     * Each den will make some games for the carnival prior to pack meeting
     * This is simply a fun activity and no belt loop will be awarded
