@@ -2,7 +2,8 @@ site_name: Pack 59 Den 6 Bears
 nav:
   - FAQ: faq.md
   - Ranks:
-    - Webelo: index.md
+    - AoL: index.md
+    - Webelo: webelo.md
     - Bear: bear.md
     - Wolf: wolf.md
     - Tiger: tiger.md
