@@ -16,7 +16,7 @@ hidecalendar: True
     <details>
         <summary role="button">What do Class A and B Uniforms mean?</summary>
         <p><b>Class B</b> uniforms are the blue t-shirts and are worn to most den meetings</p>
-        <p><b>Class A</b> uniforms are the full button sown shirt with patches and worn to official events and pack meetings</p>
+        <p><b>Class A</b> uniforms are the full button down shirt with patches and worn to official events and pack meetings</p>
     </details>
 
     <details>
