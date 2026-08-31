@@ -10,12 +10,14 @@ The required adventures will have different colors on the pin, while the electiv
 
 You can see all AoL Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/arrow-of-light/).
 
+Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e397f069/IQDD1nUxyYjGSrMolGRFWApvAfN4mxQik-O-jp_kd-XgTM8?e=4tpd6P).
+
 ## Adventures
 
 | Column 1                                                                  | Column 2                                                        | Column 3                                                                 |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| [![TBD](img/loops/aol/bobcat.jpg){: .tbd}](#bobcat)                       | [![TBD](img/loops/aol/fitness.jpg){: .tbd}](#personal-fitness)  | [![TBD](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                 |
-| [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)               | [![TBD](img/loops/aol/citizenship.jpg){: .tbd}](#citizenship)   | [![TBD](img/loops/aol/outdooradventure.jpg){: .tbd}](#outdoor-adventure) |
+| [![9/9](img/loops/aol/bobcat.jpg){: .tbd}](#bobcat)                       | [![TBD](img/loops/aol/fitness.jpg){: .tbd}](#personal-fitness)  | [![TBD](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                 |
+| [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)              | [![TBD](img/loops/aol/citizenship.jpg){: .tbd}](#citizenship)   | [![TBD](img/loops/aol/outdooradventure.jpg){: .tbd}](#outdoor-adventure) |
 | [![TBD](img/loops/aol/knife.jpg){: .tbd}](#knife-safety)                  | [![TBD](img/loops/aol/racetime.jpg){: .tbd}](#race-time)        |                                                                          |
 | [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery) | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)               |
 
@@ -24,12 +26,30 @@ You can see all AoL Adventures on the Cub Scouts website [here](https://www.scou
 * ##### Bobcat
     * _Required_
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/bobcat-aol/)
-       * Demonstrate the patrol method by choosing a patrol name and electing a patrol leader. Discuss the benefits of using the patrol method.
-       * Get to know members of your patrol.
-       * Recite the Scout Oath and Scout Law with your patrol.
-       * With your patrol create a Code of Conduct.
-       * Demonstrate the Scout sign, Scout salute and Scout handshake used by Scouting America.  Show how each are used.
-       * Learn the Scouting America slogan and motto.
+    * Demonstrate the patrol method by choosing a patrol name and electing a patrol leader. Discuss the benefits of using the patrol method.
+        1. Explain to Cub Scouts that they’ll be learning about the patrols and how they are used in a Scouts BSA troop. Tell Cub Scouts that a patrol is similar to a den in a Cub Scout pack but instead of an adult den leader, patrols have a youth leader. Tell Cub Scouts that patrols are managed by the patrol method. The patrol method allows Scouts to interact in a small group outside the larger troop, working together as a team. Each patrol has a patrol leader and today they will elect a patrol leader. 
+        2. Share with Cub Scouts the list of responsibilities that the Arrow of Light patrol leader will be responsible for.  Note that Arrow of Light patrol leaders are to never be put in charge of other Scouts.  The Arrow of Light patrol leader is not the same as a Scouts BSA patrol leader. Ask Cub Scouts to raise their hands if they want to run for patrol leader. Give each candidate a minute or two to share with their den why they want to be the Arrow of Light patrol leader. 
+        3. Pass out a piece of paper and a pencil to each Cub Scout. Ask them to write down the name of the candidate they would like to be the Arrow of Light patrol leader. For a larger den, you may also choose to elect an Arrow of Light assistant patrol leader.  
+        4. Tally the votes and announce the patrol leader. 
+        5. Provide a list of possible patrol names to the newly elected Arrow leader. patrol leader. Ask the Arrow of Light patrol leader to lead a discussion about what patrol name Cub Scouts want to use. 
+        6. Have a vote to determine the Arrow of Light patrol name.  
+        7. Pick a patrol patch - Chris has [pictures](/patches)
+    * Get to know members of your patrol by making a Patrol Flag
+        1. Everyone writes their name on the Arrow
+    * Recite the Scout Oath and Scout Law with your patrol.
+    * With your patrol create a Code of Conduct.
+    * Demonstrate the Scout sign, Scout salute and Scout handshake used by Scouting America.  Show how each are used.
+        1. Scouts BSA sign – raise your right arm to shoulder height with your elbow bent at a right angle. Cover the nail of your pinky with your thumb and hold the three middle fingers of your hand upward and together. Your thumb and little finger touching represent the bond Scouts have throughout the world. The three fingers stand for the three parts of the Scout Oath: duty to God and country, duty to others and duty to self.  Like the Cub Scout sign, when the sign is raised, it’s a silent reminder to follow the Scout Oath and the Scout Law by respectfully quieting down and listening. Nobody needs to yell, “Signs up!” The sign says it all.  From this point forward Arrow of Light Scouts give the Scouts BSA sign and not the Cub Scout sign. 
+        1. Scouts BSA Salute – Form the Scout sign with your right hand, then finish the salute by bringing that hand up, palm down, until your forefinger touches the brim of your hat or the tip of your right eyebrow. The Scout salute is a form of greeting that also shows respect. Use it to salute the flag of the United States of America. You may also salute other Scouts and Scout leaders. 
+        1. Scouts BSA Handshake – This is a regular handshake but done with the left hand instead of the right.   Learn more about this tradition by reading Aaron on Scouting blog [“Why is the Scout handshake done with the left hand?” ](https://blog.scoutingmagazine.org/2016/04/04/scout-handshake-left-hand/)
+        1. Explain to Cub Scouts that the sign, salute, and handshake for Scouts BSA is different than for Cub Scouts and today they will be learning a practicing.  
+        1. Give the Arrow of Light patrol leader the six cards and have them stand 60 feet from the starting line. 
+        1. Divide Cub Scouts into two teams and have them gather behind a starting line  
+        1. Tell Cub Scouts that when you say go, they will take turns running over to the Arrow of Light patrol leader. The Arrow of Light patrol leader will hold up one of the cards and Cub Scouts will demonstrate what is written on the card. After they have correctly demonstrated it, they will run back and tag the next person on their team. 
+        1. Continue playing the game until all Cub Scouts have had a turn. 
+        1. The team that finishes first will be the winner. 
+    * Learn the Scouting America slogan and motto.
+        1. Share the Scouts BSA slogan “Do a Good Turn Daily” and the Scouts BSA motto “Be Prepared” with the Cub Scouts. Point out that the slogan and motto are different than the slogan and motto for Cub Scouts. 
 
 * ##### Personal Fitness
     * _Required_
@@ -56,6 +76,8 @@ You can see all AoL Adventures on the Cub Scouts website [here](https://www.scou
        * Discuss with your parent or legal guardian your family’s faith traditions or one of your choosing. Choose a view or value of that faith tradition that is related to the Scout Law. Discuss with your family how each family member demonstrates this value.
        * Meet with a representative of a faith-based organization in your local community who provides a service that assists people in crisis regardless of their faith. Identify who they help and how.
        * Discuss with your parent, legal guardian, or an adult leader what “Duty to God” means to you. Tell how you practice your Duty to God in your daily life.
+    * [Duty to God Passport](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/aol/AOL%20Duty%20to%20God%C2%A01-3%C2%A0Passport.pdf)
+    * [Duty to God Take Home Printout](https://1drv.ms/w/c/e941dad9e397f069/IQAMicOMHx9wTIseTSz2iaoKAbdBkxW2KiGQY_kpb9soO9c?e=oLtryH)
 
 * ##### Citizenship
     * _Required_
