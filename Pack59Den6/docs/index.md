@@ -10,7 +10,7 @@ The required adventures will have different colors on the pin, while the electiv
 
 You can see all AoL Adventures on the Cub Scouts website [here](https://www.scouting.org/programs/cub-scouts/adventures/arrow-of-light/).
 
-Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e397f069/IQDD1nUxyYjGSrMolGRFWApvAfN4mxQik-O-jp_kd-XgTM8?e=4tpd6P).
+Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e397f069/IQDD1nUxyYjGSrMolGRFWApvAfN4mxQik-O-jp_kd-XgTM8?e=4tpd6P). 
 
 ## Adventures
 
@@ -40,16 +40,22 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
     * With your patrol create a Code of Conduct.
     * Demonstrate the Scout sign, Scout salute and Scout handshake used by Scouting America.  Show how each are used.
         1. Scouts BSA sign – raise your right arm to shoulder height with your elbow bent at a right angle. Cover the nail of your pinky with your thumb and hold the three middle fingers of your hand upward and together. Your thumb and little finger touching represent the bond Scouts have throughout the world. The three fingers stand for the three parts of the Scout Oath: duty to God and country, duty to others and duty to self.  Like the Cub Scout sign, when the sign is raised, it’s a silent reminder to follow the Scout Oath and the Scout Law by respectfully quieting down and listening. Nobody needs to yell, “Signs up!” The sign says it all.  From this point forward Arrow of Light Scouts give the Scouts BSA sign and not the Cub Scout sign. 
-        1. Scouts BSA Salute – Form the Scout sign with your right hand, then finish the salute by bringing that hand up, palm down, until your forefinger touches the brim of your hat or the tip of your right eyebrow. The Scout salute is a form of greeting that also shows respect. Use it to salute the flag of the United States of America. You may also salute other Scouts and Scout leaders. 
-        1. Scouts BSA Handshake – This is a regular handshake but done with the left hand instead of the right.   Learn more about this tradition by reading Aaron on Scouting blog [“Why is the Scout handshake done with the left hand?” ](https://blog.scoutingmagazine.org/2016/04/04/scout-handshake-left-hand/)
-        1. Explain to Cub Scouts that the sign, salute, and handshake for Scouts BSA is different than for Cub Scouts and today they will be learning a practicing.  
-        1. Give the Arrow of Light patrol leader the six cards and have them stand 60 feet from the starting line. 
-        1. Divide Cub Scouts into two teams and have them gather behind a starting line  
-        1. Tell Cub Scouts that when you say go, they will take turns running over to the Arrow of Light patrol leader. The Arrow of Light patrol leader will hold up one of the cards and Cub Scouts will demonstrate what is written on the card. After they have correctly demonstrated it, they will run back and tag the next person on their team. 
-        1. Continue playing the game until all Cub Scouts have had a turn. 
-        1. The team that finishes first will be the winner. 
+        2. Scouts BSA Salute – Form the Scout sign with your right hand, then finish the salute by bringing that hand up, palm down, until your forefinger touches the brim of your hat or the tip of your right eyebrow. The Scout salute is a form of greeting that also shows respect. Use it to salute the flag of the United States of America. You may also salute other Scouts and Scout leaders. 
+        3. Scouts BSA Handshake – This is a regular handshake but done with the left hand instead of the right.   Learn more about this tradition by reading Aaron on Scouting blog [“Why is the Scout handshake done with the left hand?” ](https://blog.scoutingmagazine.org/2016/04/04/scout-handshake-left-hand/)
+        4. Explain to Cub Scouts that the sign, salute, and handshake for Scouts BSA is different than for Cub Scouts and today they will be learning a practicing.  
+        5. Give the Arrow of Light patrol leader the six cards and have them stand 60 feet from the starting line. 
+        6. Divide Cub Scouts into two teams and have them gather behind a starting line  
+        7. Tell Cub Scouts that when you say go, they will take turns running over to the Arrow of Light patrol leader. The Arrow of Light patrol leader will hold up one of the cards and Cub Scouts will demonstrate what is written on the card. After they have correctly demonstrated it, they will run back and tag the next person on their team. 
+        8. Continue playing the game until all Cub Scouts have had a turn. 
+        9. The team that finishes first will be the winner. 
     * Learn the Scouting America slogan and motto.
         1. Share the Scouts BSA slogan “Do a Good Turn Daily” and the Scouts BSA motto “Be Prepared” with the Cub Scouts. Point out that the slogan and motto are different than the slogan and motto for Cub Scouts. 
+    * With your patrol, or with your parent/legal guardian, visit a Scouting America troop. This could be a daytime activity/meeting or overnight/camping trip. Troops include:
+        * Troop 70 - Cinnaminson NJ
+        * [Troop 76 - Mt. Laurel NJ](patrolpatches/Troop76Dates.pdf)
+        * Troop 71 - Moorestown NJ
+    * At home, with your parent or legal guardian do the activities in the booklet [“How to Protect Your Children from Child Abuse: A Parent’s Guide.”](https://filestore.scouting.org/filestore/pdf/100-014_WEB.pdf)
+
 
 * ##### Personal Fitness
     * _Required_
