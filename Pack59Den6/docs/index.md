@@ -51,7 +51,7 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
     * Learn the Scouting America slogan and motto.
         1. Share the Scouts BSA slogan “Do a Good Turn Daily” and the Scouts BSA motto “Be Prepared” with the Cub Scouts. Point out that the slogan and motto are different than the slogan and motto for Cub Scouts. 
     * With your patrol, or with your parent/legal guardian, visit a Scouting America troop. This could be a daytime activity/meeting or overnight/camping trip. Troops include:
-        * Troop 70 - Cinnaminson NJ
+        * [Troop 70 - Cinnaminson NJ](patrolpatches/Troop70Dates.pdf)
         * [Troop 76 - Mt. Laurel NJ](patrolpatches/Troop76Dates.pdf)
         * Troop 71 - Moorestown NJ
     * At home, with your parent or legal guardian do the activities in the booklet [“How to Protect Your Children from Child Abuse: A Parent’s Guide.”](https://filestore.scouting.org/filestore/pdf/100-014_WEB.pdf)
