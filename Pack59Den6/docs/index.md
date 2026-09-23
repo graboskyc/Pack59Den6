@@ -110,29 +110,29 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
     * Optional, 9/23
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/knife-safety/)
        * Know the safety rules for handling and using a knife
-            * Practicing the [word search](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/aol/AOL%20Knife%20Safety%201%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/aol/AOL%20Knife%20Safety%201%20Word%20Search%20Key.pdf)
-            * **Stop** – make sure no one else is within arm’s reach. Ask  Cub Scouts to explain how to ensure no one is within arm’s reach. The answer is “safety circle.” 
-            * **Away** – cut away from your finger or other body parts. Ask Cub Scouts why they should always cut away from themselves. The answer is “to avoid being cut with the knife.” 
-            * **Sharp** – a sharp, clean knife is a safe knife. Ask Cub Scouts how they determine if a knife is sharp or dull. Demonstrate the sharpness of a knife by holding a sheet of per by the edge and slicing through it diagonally in a downward motion as you pull the blade through the paper. 
-            * **Store** – knives closed, in a sheath or knife block. Where should they keep their knife when it is not being used? The answer is “depends on the knife. Pocketknives should be kept closed while not in use and kitchen knives in a knife block. 
+           * Practicing the [word search](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/aol/AOL%20Knife%20Safety%201%20Word%20Search.pdf) and [answer key](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/aol/AOL%20Knife%20Safety%201%20Word%20Search%20Key.pdf)
+           * **Stop** – make sure no one else is within arm’s reach. Ask  Cub Scouts to explain how to ensure no one is within arm’s reach. The answer is “safety circle.” 
+           * **Away** – cut away from your finger or other body parts. Ask Cub Scouts why they should always cut away from themselves. The answer is “to avoid being cut with the knife.” 
+           * **Sharp** – a sharp, clean knife is a safe knife. Ask Cub Scouts how they determine if a knife is sharp or dull. Demonstrate the sharpness of a knife by holding a sheet of per by the edge and slicing through it diagonally in a downward motion as you pull the blade through the paper. 
+           * **Store** – knives closed, in a sheath or knife block. Where should they keep their knife when it is not being used? The answer is “depends on the knife. Pocketknives should be kept closed while not in use and kitchen knives in a knife block. 
        * Demonstrate the knife safety circle. Establish an area to safely conduct a knife safety circle. Remove all objects and allow for plenty of room for a Cub Scout to safely turn in a circle while holding their pocketknife. 
        * Demonstrate that you know how to care for and use a knife safely.
-            * Watch [video](https://vimeo.com/948326811)
-            * Spray the whetstone with water. 
-            * Using the black marker, mark the bevel of the blade on both sides. 
-            * Lay the blade on the stone at a slight angle. Push the blade forward as if you were going to shave a thin sliver from the stone. Do not push down hard. 10 to 15 passes.    
-            * Next, turn the blade over and sharpen the other side, 10 to 15 passes. Keep your fingers below the * surface of the stone to protect them. Continue this back-and-forth action until the edge is sharp along its entire length. 
-            * Check the sharpness of the blade by cutting a piece of rope.  The knife should easily cut the rope with little effort, if not, continue to sharpen the blade.  
+           * Watch [video](https://vimeo.com/948326811)
+           * Spray the whetstone with water. 
+           * Using the black marker, mark the bevel of the blade on both sides. 
+           * Lay the blade on the stone at a slight angle. Push the blade forward as if you were going to shave a thin sliver from the stone. Do not push down hard. 10 to 15 passes.    
+           * Next, turn the blade over and sharpen the other side, 10 to 15 passes. Keep your fingers below the surface of the stone to protect them. Continue this back-and-forth action until the edge is sharp along its entire length. 
+           * Check the sharpness of the blade by cutting a piece of rope.  The knife should easily cut the rope with little effort, if not, continue to sharpen the blade.  
        * Demonstrate the proper use of a pocketknife to make a useful object on a campout, in this case a walking stick
-            * Instruct Cub Scouts on proper size of sticks to choose for walking sticks, typically 6-12” shorter than the Cub Scout and 1” in diameter. 
-            * Explain to Cub Scouts that they will be decorating their walking sticks with their initials or names. 
-            * Demonstrate how to carve out sections of the stick to create the letters. The stop cut is the best cut for doing this. 
-            * Use pocketknife to etch desired letter into wood. 
-            * Once outline is etched, use pocketknife to carve out etched letters deeper and wider, trying to keep them uniform in depth and width. 
-            * Spread Cub Scouts out to a safe distance from each other, and assist them in repeating your steps, carving their initials or names into their sticks.
+           * Instruct Cub Scouts on proper size of sticks to choose for walking sticks, typically 6-12” shorter than the Cub Scout and 1” in diameter. 
+           * Explain to Cub Scouts that they will be decorating their walking sticks with their initials or names. 
+           * Demonstrate how to carve out sections of the stick to create the letters. The stop cut is the best cut for doing this. 
+           * Use pocketknife to etch desired letter into wood. 
+           * Once outline is etched, use pocketknife to carve out etched letters deeper and wider, trying to keep them uniform in depth and width. 
+           * Spread Cub Scouts out to a safe distance from each other, and assist them in repeating your steps, carving their initials or names into their sticks.
        * Choose the correct cooking knife and demonstrate how to properly slice, chop, and mince.
-            * Wash all hands and fruit
-            * chop fruits and make fruit salad
+           * Wash all hands and fruit
+           * chop fruits and make fruit salad
 
 * ##### Race Time
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/race-time-aol/)
