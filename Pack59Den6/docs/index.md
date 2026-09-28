@@ -16,9 +16,9 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
 
 | Column 1                                                                  | Column 2                                                        | Column 3                                                                 |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| [![9/9](img/loops/aol/bobcat.jpg){: .tbd}](#bobcat)                       | [![TBD](img/loops/aol/fitness.jpg){: .tbd}](#personal-fitness)  | [![TBD](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                 |
+| [![9/9](img/loops/aol/bobcat.jpg)](#bobcat)                               | [![TBD](img/loops/aol/fitness.jpg){: .tbd}](#personal-fitness)  | [![TBD](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                 |
 | [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)              | [![TBD](img/loops/aol/citizenship.jpg){: .tbd}](#citizenship)   | [![TBD](img/loops/aol/outdooradventure.jpg){: .tbd}](#outdoor-adventure) |
-| [![9/23](img/loops/aol/knife.jpg){: .tbd}](#knife-safety)                  | [![TBD](img/loops/aol/racetime.jpg){: .tbd}](#race-time)        |                                                                          |
+| [![9/23](img/loops/aol/knife.jpg)](#knife-safety)                         | [![TBD](img/loops/aol/racetime.jpg){: .tbd}](#race-time)        |                                                                          |
 | [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery) | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)               |
 
 ## Adventure Guides (in order)
