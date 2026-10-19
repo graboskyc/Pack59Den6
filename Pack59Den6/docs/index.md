@@ -14,12 +14,12 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
 
 ## Adventures
 
-| Column 1                                                                  | Column 2                                                        | Column 3                                                                 |
-|---------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| [![9/9](img/loops/aol/bobcat.jpg)](#bobcat)                               | [![TBD](img/loops/aol/fitness.jpg){: .tbd}](#personal-fitness)  | [![TBD](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                 |
-| [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)              | [![TBD](img/loops/aol/citizenship.jpg){: .tbd}](#citizenship)   | [![TBD](img/loops/aol/outdooradventure.jpg){: .tbd}](#outdoor-adventure) |
-| [![9/23](img/loops/aol/knife.jpg)](#knife-safety)                         | [![TBD](img/loops/aol/racetime.jpg){: .tbd}](#race-time)        |                                                                          |
-| [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery) | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)               |
+| Column 1                                                                  | Column 2                                                         | Column 3                                                                                    |
+|---------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| [![9/9](img/loops/aol/bobcat.jpg)](#bobcat)                               | [![10/21](img/loops/aol/fitness.jpg){: .tbd}](#personal-fitness) | [![TBD](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                                    |
+| [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)              | [![TBD](img/loops/aol/citizenship.jpg){: .tbd}](#citizenship)    | [![10/7 and 10/10 and TBD](img/loops/aol/outdooradventure.jpg){: .tbd}](#outdoor-adventure) |
+| [![9/23](img/loops/aol/knife.jpg)](#knife-safety)                         | [![TBD](img/loops/aol/racetime.jpg){: .tbd}](#race-time)         |                                                                                             |
+| [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery)  | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)                                  |
 
 ## Adventure Guides (in order)
 
@@ -63,8 +63,8 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
 * ##### Personal Fitness
     * _Required_
     * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/personal-fitness/)
-       * Plan a balanced meal that you would eat when camping.  Prepare that meal using the gear you would use on a campout.
-       * Examine what it is to be  physically fit and how you incorporate this in your life.  Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.
+       * [Plan a balanced meal](https://www.scouting.org/cub-scout-activities/prepare-meal-for-a-picnic/) that you would eat when camping.  Prepare that meal using the gear you would use on a campout.
+       * Examine what it is to be  physically fit and how you incorporate this in your life.  Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong. Use the [form](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/aol/AOL%20Personal%20Fitness%202%20Personal%20Fitness%20Activity%20Log.pdf)
        * Be active for 30 minutes with your patrol, a younger den, or at least one other person in a way that includes both stretching and moving.
        * Review your Scouting America [Annual Health and Medical Record](https://www.scouting.org/health-and-safety/ahmr/) with your parent or legal guardian. Discuss your ability to participate in Arrow of Light patrol and pack activities.
 
