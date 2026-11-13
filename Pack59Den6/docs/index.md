@@ -14,12 +14,12 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
 
 ## Adventures
 
-| Column 1                                                                  | Column 2                                                          | Column 3                                                                                     |
-|---------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| [![9/9](img/loops/aol/bobcat.jpg)](#bobcat)                               | [![10/21](img/loops/aol/fitness.jpg)](#personal-fitness)          | [![TBD](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                                     |
-| [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)              | [![11/14 and 11/21](img/loops/aol/citizenship.jpg)](#citizenship) | [![10/7 and 10/10 or 11/13](img/loops/aol/outdooradventure.jpg){: .tbd}](#outdoor-adventure) |
-| [![9/23](img/loops/aol/knife.jpg)](#knife-safety)                         | [![1/22](img/loops/aol/racetime.jpg){: .tbd}](#race-time)         |                                                                                              |
-| [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun) | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery)   | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)                                   |
+| Column 1                                                                                     | Column 2                                                        | Column 3                                                          |
+|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------|
+| [![9/9](img/loops/aol/bobcat.jpg)](#bobcat)                                                  | [![9/23](img/loops/aol/knife.jpg)](#knife-safety)               | [![10/21](img/loops/aol/fitness.jpg)](#personal-fitness)          |
+| [![10/7 and 10/10 or 11/13](img/loops/aol/outdooradventure.jpg){: .tbd}](#outdoor-adventure) | [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)    | [![11/14 and 11/21](img/loops/aol/citizenship.jpg)](#citizenship) |
+| [![12/2](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                                    |[![1/22](img/loops/aol/racetime.jpg){: .tbd}](#race-time)        |                                                                   |                                                                   |
+| [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun)                    | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery) | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)        |
 
 ## Adventure Guides (in order)
 
