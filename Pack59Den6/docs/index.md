@@ -14,12 +14,12 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
 
 ## Adventures
 
-| Column 1                                                                             | Column 2                                                        | Column 3                                                          |
-|--------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------|
-| [![9/9](img/loops/aol/bobcat.jpg)](#bobcat)                                          | [![9/23](img/loops/aol/knife.jpg)](#knife-safety)               | [![10/21](img/loops/aol/fitness.jpg)](#personal-fitness)          |
-| [![10/7 and 10/10 or 11/13](img/loops/aol/outdooradventure.jpg)](#outdoor-adventure) | [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)    | [![11/14 and 11/21](img/loops/aol/citizenship.jpg)](#citizenship) |
-| [![12/2](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                            | [![1/22](img/loops/aol/racetime.jpg){: .tbd}](#race-time)       |                                                                   |                                                                   |
-| [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun)            | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery) | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)        |
+| Column 1                                                                             | Column 2                                                        | Column 3                                                                  |
+|--------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------|
+| [![9/9](img/loops/aol/bobcat.jpg)](#bobcat)                                          | [![9/23](img/loops/aol/knife.jpg)](#knife-safety)               | [![10/21](img/loops/aol/fitness.jpg)](#personal-fitness)                  |
+| [![10/7 and 10/10 or 11/13](img/loops/aol/outdooradventure.jpg)](#outdoor-adventure) | [![HOME](img/loops/aol/dutytogod.jpg){: .tbd}](#duty-to-god)    | [![11/14 and 11/21](img/loops/aol/citizenship.jpg)](#citizenship)         |
+| [![12/2](img/loops/aol/firstaid.jpg){: .tbd}](#first-aid)                            | [![1/22](img/loops/aol/racetime.jpg){: .tbd}](#race-time)       | [![TBD](img/loops/aol/hightechoutdoors.jpg){: .tbd}](#high-tech-outdoors) |                                                                   |
+| [![Summer '26](img/loops/aol/summertime.jpg){: .summer}](#summertime-fun)            | [![Summer '26](img/loops/aol/archery.jpg){: .summer}](#archery) | [![Summer '26](img/loops/aol/bb.jpg){: .summer}](#bb-guns)                |
 
 ## Adventure Guides (in order)
 
@@ -173,6 +173,12 @@ Week one welcome information can be found [here](https://1drv.ms/w/c/e941dad9e39
        * Before the race, discuss with your patrol den how you will demonstrate good sportsmanship during the race.
        * Participate in a Pinewood Derby® or a Raingutter Regatta™.
 
+* ##### High Tech Outdoors
+    * [Scouting.org Adventure](https://www.scouting.org/cub-scout-adventures/high-tech-outdoors/)
+       * With an adult, use a weather app or website to see the forecast for an outdoor activity and discuss any preparation needed to accommodate the weather.
+       * With an adult, find a knot-tying app. Select one knot to learn, and tie it using the app.
+       * Discuss how technology has improved camping gear. Watch [Speeed Video cutdown here](https://1drv.ms/v/c/e941dad9e397f069/IQDLIlqu1RoGSruKfm1dVMzEAdjD-PswLJc0MLgim7C8_SA?e=kLJRsb) or full video on [youtube](https://www.youtube.com/watch?v=5Us6AVVkx_8&t=2s) which has some language in it
+       * Think of a way technology can improve camping gear used on one of your outdoor activities.
 
 ## From 2026 Summer Camp
 
